@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_SUMER">
+			<Text>From the waters rose the fields, and from the fields rose the cities. The Sumerians shaped the floodplains into canals and farmland, their hands carving the land as their words carved the first laws into clay. Beneath towering ziggurats, priest-kings ruled in the name of gods, while merchants crossed deserts and mountains, their caravans laden with the wealth of distant lands. But as the cities grew, so did their rivalries, and the struggle for kingship turned brother against brother, city against city. The rivers have shifted, and the walls have crumbled, yet their stories remain—pressed into clay, bound in time, whispering still of the first great civilization.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_VO_SUMER">
+			<Text>From fired clay and forged bronze rose the might of Sumer - kings and gods shared thrones, where history itself was born</Text>
+		</Row>
+	</EnglishText>
+</Database>

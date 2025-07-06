@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+
+		<!-- ==================================================	-->
+		<!--	SUMER							-->
+		<!-- ==================================================	-->
+		<Row Tag="LOC_TREE_CIVICS_EX_SUMER_NAME">
+			<Text>Sumerian Civics</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ENGUR_KALAM_NAME">
+			<Text>Engur-Kalam</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ENGUR_KALAM_QUOTE">
+			<Text>"The bounty of the rivers, the labor of the people."</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ENGUR_KALAM_QUOTE_AUTHOR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_MOD_ENGUR_KALAM_RESOURCES_DESCRIPTION">
+			<Text>+1 resource capacity for each Settlement.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_E_NUN_GESTINNA_NAME">
+			<Text>É-Nun-Gestinna</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_E_NUN_GESTINNA_QUOTE">
+			<Text>"The temple is the storehouse of the land."</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_E_NUN_GESTINNA_QUOTE_AUTHOR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_KI_TAR_LA_NAME">
+			<Text>Ki-Tar-Lá</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_KI_TAR_LA_QUOTE">
+			<Text>"With the first word, the first debt was recorded."</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_KI_TAR_LA_QUOTE_AUTHOR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NAM_LUGAL_NAME">
+			<Text>Nam-Lugal</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NAM_LUGAL_QUOTE">
+			<Text>"The lugal's word is law, the city's will is strong."</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NAM_LUGAL_QUOTE_AUTHOR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_SUKU_RATIONS_NAME">
+			<Text>Sûku Rations</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_SUKU_RATIONS_DESCRIPTION">
+			<Text>Rural districts adjacent to Navigable Rivers get +2 [icon:YIELD_FOOD] Food.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_SUKU_RATIONS_FOOD_DESCRIPTION">
+			<Text>Rural districts adjacent to Navigable Rivers get +2 [icon:YIELD_FOOD] Food.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_TAMKARUM_CONTRACTS_NAME">
+			<Text>Tamkarum Contracts</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_TAMKARUM_CONTRACTS_DESCRIPTION">
+			<Text>+5 trade route range.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_TAMKARUM_CONTRACTS_TRADE_ROUTE_RANGE_DESCRIPTION">
+			<Text>+5 trade route range.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_ERUN_URUDA_NAME">
+			<Text>Erun Uruda</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_ERUN_URUDA_DESCRIPTION">
+			<Text>+3 [icon:YIELD_HAPPINESS] Happiness on each science building.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_ERUN_URUDA_SCIENCE_HAPPINESS_DESCRIPTION">
+			<Text>+3 [icon:YIELD_HAPPINESS] Happiness on each science building.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ERUN_URUDA_SCIENCE_HAPPINESS_DESCRIPTION">
+			<Text>+3 [icon:YIELD_HAPPINESS] Happiness on each science building.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_KI_SU_NI_NAME">
+			<Text>Ki-Su-Ni</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_KI_SU_NI_DESCRIPTION">
+			<Text>Rough terrain gets +2 [icon:YIELD_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_KI_SU_NI_GOLD_DESCRIPTION">
+			<Text>Rough terrain gets +2 [icon:YIELD_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_UKKIN_NAME">
+			<Text>Ukkin</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_UKKIN_DESCRIPTION">
+			<Text>+3 [icon:YIELD_DIPLOMACY] Influence on the Palace.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_UKKIN_DIPLOMACY_YIELD_DESCRIPTION">
+			<Text>+3 [icon:YIELD_DIPLOMACY] Influence on the Palace.</Text>
+		</Row>
+		
+		<!-- <Row Tag="LOC_TREE_CIVICS_EX_SUMER_NAME">
+			<Text>Venetian Civics</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MAESTRIA_LAGUNARE_NAME">
+			<Text>Maeastria Lagunare</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MAESTRIA_LAGUNARE_QUOTE">
+			<Text>"God, who has given us this home in the waters, will preserve it"</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MAESTRIA_LAGUNARE_QUOTE_AUTHOR">
+			<Text>Adapted from a old Venetian prayer</Text>
+		</Row> -->
+
+		<!-- to do: add quotes -->
+		<!-- <Row Tag="LOC_CIVIC_ARTIGIANATO_NAME">
+			<Text>Artigianato</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ARTIGIANATO_QUOTE">
+
+			<Text>"It is the city of mirrors, the city of mirages, at once solid and liquid, at once air and stone."</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ARTIGIANATO_QUOTE_AUTHOR">
+			<Text>Erica Jong</Text>
+		</Row> -->
+
+
+	
+		<!-- <Row Tag="LOC_CIVIC_TRADIZIONE_DEGLI_ARSENALOTTI_NAME">
+			<Text>Tradizione degli Arsenalotti</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_TRADIZIONE_DEGLI_ARSENALOTTI_QUOTE">
+			<Text>"So great is the number of the galleys which are built and fitted out there, that it is a thing incredible to those who have not seen it."</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_TRADIZIONE_DEGLI_ARSENALOTTI_QUOTE_AUTHOR">
+			<Text>Pero Tafur</Text>
+		</Row> -->
+
+		
+
+		<!-- to do: add quotes -->
+		<!-- <Row Tag="LOC_CIVIC_STATO_DEL_MAR_NAME">
+			<Text>Stato del Mar</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_STATO_DEL_MAR_QUOTE">
+
+			<Text>"The Commonwealth of SUMER in their armory have this inscription: 'Happy is that city which in time of peace thinks of war'."</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_STATO_DEL_MAR_QUOTE_AUTHOR">
+			<Text>Robert Burton</Text>
+		</Row> -->
+		
+		<!--SUMER Civic Description-->
+		<!-- <Row Tag="MOD_TRADIZIONE_DEGLI_ARSENALOTTI_FLOTTA_VELOCE_DESCRIPTION">
+			<Text>+1 Movement for Naval Units.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_STATO_DEL_MAR_MARINE_FOOD_DESCRIPTION">
+			<Text>+2 [icon:YIELD_FOOD] Food for each Marine tile.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_STATO_DEL_MAR_MARINE_GOLD_DESCRIPTION">
+			<Text>+2 [icon:YIELD_GOLD] Gold for each Marine tile.</Text>
+		</Row>
+
+		<Row Tag="LOC_TRADITION_STATO_DEL_MAR_MARINE_PRODUCTION_DESCRIPTION">
+			<Text>+2 [icon:YIELD_PRODUCTION] Production for each Marine tile.</Text>
+		</Row> -->
+
+		<!--SUMER Unique Traditions-->
+		<!-- <Row Tag="LOC_TRADITION_LAGUNA_PROTETTA_NAME">
+			<Text>Laguna Protetta</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_LAGUNA_PROTETTA_DESCRIPTION">
+			<Text>Coastal Settlements receive +3 [icon:YIELD_PRODUCTION] production.</Text>
+		</Row>
+
+		
+		<Row Tag="LOC_TRADITION_FORNA_DE_MURANO_NAME">
+			<Text>Fornace di Murano</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_FORNA_DE_MURANO_DESCRIPTION">
+
+			<Text>Culture buildings receive +2 [icon:YIELD_PRODUCTION] production.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_TRADITION_COSTRUZIONE_NAVALE_ACCELERATA_NAME">
+			<Text>Costruzione Navale Accellerata</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_COSTRUZIONE_NAVALE_ACCELERATA_DESCRIPTION">
+			<Text>+30% [icon:YIELD_PRODUCTION] Production for Naval Units.</Text>
+		</Row>
+
+		
+		<Row Tag="LOC_TRADITION_REGIA_MARINA_NAME">
+			<Text>Regia Marina</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_REGIA_MARINA_DESCRIPTION">
+			<Text>Fleet commanders get +1 command radius.</Text>
+		</Row>
+
+		<Row Tag="LOC_TRADITION_POTENZIA_VENEZIA_NAME">
+			<Text>Potenza di Venezia</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_POTENZIA_VENEZIA_DESCRIPTION">
+			<Text>Whenever you build a Naval Combat Unit, the city you built it in gains 25% of its cost as [icon:YIELD_GOLD] Gold.</Text>
+		</Row> -->
+	</EnglishText>
+</Database>

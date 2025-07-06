@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameEffects xmlns="GameEffects">
+	<Modifier id="MOD_BRONZE_HAPPINESS" collection="COLLECTION_ALL_CITIES" effect="EFFECT_CITY_ADJUST_YIELD_PER_RESOURCE">
+		<Argument name="Amount">3</Argument>
+		<Argument name="YieldType">YIELD_HAPPINESS</Argument>
+		<Argument name="ResourceType">RESOURCE_BRONZE</Argument>
+		<Argument name="PercentMultiplier">false</Argument>
+	</Modifier>
+    <Modifier id="MOD_BRONZE_PRODUCTION" collection="COLLECTION_ALL_CITIES" effect="EFFECT_CITY_ADJUST_YIELD_PER_RESOURCE">
+		<Argument name="Amount">2</Argument>
+		<Argument name="YieldType">YIELD_PRODUCTION</Argument>
+		<Argument name="ResourceType">RESOURCE_BRONZE</Argument>
+		<Argument name="PercentMultiplier">false</Argument>
+	</Modifier>
+    <Modifier id="MOD_BRONZE_UNIT_PURCHASE_DISCOUNT" collection="COLLECTION_ALL_PLAYERS" effect="EFFECT_CITY_ADJUST_UNIT_PRODUCTION_PER_RESOURCE">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_CITY_HAS_BUILD_QUEUE"/>
+		</SubjectRequirements>
+		<Argument name="Percent">20</Argument>
+		<Argument name="ResourceType">RESOURCE_BRONZE</Argument>
+		<Argument name="AffectUnits">true</Argument>
+	</Modifier> 
+</GameEffects>

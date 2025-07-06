@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Database>
+	<IconDefinitions>
+		<Row>
+			<ID>ICON_CIVILIZATION_SUMER</ID>
+			<Path>fs://game/rogues-civ-sumer/sumer.png</Path>
+		</Row>
+		<Row>
+			<ID>CIVILIZATION_SUMER</ID>
+			<Path>fs://game/rogues-civ-sumer/sumer.png</Path>
+		</Row>
+		<Row>
+			<ID>CIVILIZATION_SUMER</ID>
+			<Context>BACKGROUND</Context>
+			<Path>fs://game/lsbg_aksum_1080</Path>
+			<IconSize>1080</IconSize>
+		</Row>
+		<Row>
+			<ID>CIVILIZATION_SUMER</ID>
+			<Context>BACKGROUND</Context>
+			<Path>fs://game/lsbg_aksum_720</Path>
+			<IconSize>720</IconSize>
+		</Row>
+		<Row>
+			<ID>RESOURCE_BRONZE</ID>
+			<Path>fs://game/rogues-civ-sumer/bronze.png</Path>
+		</Row>
+		<Row>
+			<ID>RESOURCE_COPPER</ID>
+			<Path>fs://game/rogues-civ-sumer/copper.png</Path>
+		</Row>
+		<Row>
+			<ID>RESOURCE_TIN_ROG</ID>
+			<Path>fs://game/rogues-civ-sumer/tin.png</Path>
+		</Row>
+		<Row>
+			<ID>IMPROVEMENT_ZIGGURAT_SUMER</ID>
+			<Path>fs://game/rogues-civ-sumer/ziggurat.png</Path>
+		</Row>
+		<Row>
+			<ID>BUILDING_E_BAD_RA</ID>
+			<Path>fs://game/rogues-civ-sumer/ebadra.png</Path>
+		</Row>
+		<Row>
+			<ID>BUILDING_ABUL_URUDU</ID>
+			<Path>fs://game/rogues-civ-sumer/abul-urudu.png</Path>
+		</Row>
+		<Row>
+			<ID>BUILDING_ABUL_KUG</ID>
+			<Path>fs://game/rogues-civ-sumer/abul-kug.png</Path>
+		</Row>
+	</IconDefinitions>
+	
+	<IconAliases>
+	</IconAliases>
+</Database>

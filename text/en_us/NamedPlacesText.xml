@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<!--Rivers-->
+		<Row Tag="LOC_RIVER_DIYALA_NAME">
+			<Text>Diyala</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_GREAT_ZAB_NAME">
+			<Text>Great Zab</Text>
+		</Row>
+	</EnglishText>
+
+</Database>

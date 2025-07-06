@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+    
+	<ConstructibleModifiers>
+        <Row ConstructibleType="BUILDING_ABUL_URUDU" ModifierId="MOD_SUMER_E_BAD_RA_GIVE_RESOURCE"/>
+        <!-- <Row ConstructibleType="BUILDING_ABUL_KUG" ModifierId="MOD_SUMER_ABUL_KUG_GIVE_RESOURCE"/> -->
+    </ConstructibleModifiers>
+</Database>

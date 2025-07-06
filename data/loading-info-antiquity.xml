@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<LoadingInfo_Civilizations>
+		<Row CivilizationType="CIVILIZATION_SUMER" CivilizationText="LOC_LOADING_CIV_INTRO_TEXT_SUMER" Subtitle="LOC_LOADING_VO_SUMER" Audio="VO_Loading_SUMER" BackgroundImageHigh="fs://game/lsbg_aksum_1080.png" BackgroundImageLow="fs://game/lsbg_aksum_720.png" ForegroundImage="fs://game/civ_line_aksum.png"/>
+	</LoadingInfo_Civilizations>
+</Database>

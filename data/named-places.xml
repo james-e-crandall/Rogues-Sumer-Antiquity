@@ -1,0 +1,11 @@
+<Database>
+	<NamedRiverCivilizations>
+		<Row NamedRiverType="DIYALA" CivilizationType="CIVILIZATION_SUMER"/>
+		<Row NamedRiverType="GREAT_ZAB" CivilizationType="CIVILIZATION_SUMER"/>
+	</NamedRiverCivilizations>
+	<NamedRivers>
+		<Row NamedRiverType="DIYALA" Name="LOC_RIVER_DIYALA_NAME"/>
+		<Row NamedRiverType="GREAT_ZAB" Name="LOC_RIVER_GREAT_ZAB_NAME"/>
+	</NamedRivers>
+
+</Database>

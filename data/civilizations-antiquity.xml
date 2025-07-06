@@ -1,0 +1,99 @@
+<Database>
+	<Types>
+		<!-- Major Civs -->
+		<Row Type="TRAIT_SUMER_ABILITY" Kind="KIND_TRAIT"/>
+	</Types>
+	<Kinds>
+		<InsertOrIgnore KIND="KIND_TRAIT"/>
+	</Kinds>
+	<Civilizations>
+		<!-- Full Civs -->
+		<Row CivilizationType="CIVILIZATION_SUMER" Name="LOC_CIVILIZATION_SUMER_NAME" FullName="LOC_CIVILIZATION_SUMER_FULLNAME" Description="LOC_CIVILIZATION_SUMER_DESCRIPTION" Adjective="LOC_CIVILIZATION_SUMER_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_FULL_CIV" UniqueCultureProgressionTree="TREE_CIVICS_EX_SUMER" CapitalName="LOC_CITY_NAME_SUMER1" RandomCityNameDepth="10"/>
+	</Civilizations>
+	<Traits>
+		<!--Civ Traits-->
+		<Row TraitType="TRAIT_SUMER_ABILITY" Name="LOC_TRAIT_SUMER_ABILITY_NAME" Description="LOC_TRAIT_SUMER_ABILITY_DESCRIPTION" InternalOnly="true"/>
+	</Traits>
+	<TraitModifiers>
+		<Row TraitType="TRAIT_SUMER_ABILITY" ModifierId="MOD_REVEAL_CIV_CULTURE_TREE_SUMER"/>
+	</TraitModifiers>
+	<CivilizationTraits>
+		<Row CivilizationType="CIVILIZATION_SUMER" TraitType="TRAIT_ANTIQUITY_CIV"/>
+
+		<Row CivilizationType="CIVILIZATION_SUMER" TraitType="TRAIT_SUMER"/>
+
+		<Row CivilizationType="CIVILIZATION_SUMER" TraitType="TRAIT_SUMER_ABILITY"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" TraitType="TRAIT_ATTRIBUTE_ECONOMIC"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" TraitType="TRAIT_ATTRIBUTE_SCIENTIFIC"/>
+	</CivilizationTraits>
+	<RequirementSets>
+		<Row RequirementSetId="REQSET_PLAYER_IS_SUMER" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
+	</RequirementSets>
+	<RequirementSetRequirements>
+		<Row RequirementSetId="REQSET_PLAYER_IS_SUMER" RequirementId="REQ_PLAYER_HAS_TRAIT_SUMER"/>
+	</RequirementSetRequirements>
+	<Requirements>
+		<Row RequirementId="REQ_PLAYER_HAS_TRAIT_SUMER" RequirementType="REQUIREMENT_PLAYER_HAS_CIVILIZATION_OR_LEADER_TRAIT"/>
+	</Requirements>
+	<RequirementArguments>
+		<Row RequirementId="REQ_PLAYER_HAS_TRAIT_SUMER" Name="TraitType" Value="TRAIT_SUMER"/>
+	</RequirementArguments>
+	<LeaderCivPriorities>
+		<!--This is the table used for AI, the UI uses LeaderCivilizationBias in config.xml-->
+		<!-- <Row Leader="LEADER_MACHIAVELLI" Civilization="CIVILIZATION_SUMER" Priority="4"/> -->
+	</LeaderCivPriorities>
+	<CityNames>
+		<!--SUMER-->
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER1"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER2"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER3"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER4"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER5"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER6"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER7"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER8"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER9"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER10"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER11"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER12"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER13"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER14"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER15"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER16"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER17"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER18"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER19"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER20"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER21"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER22"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER23"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER24"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER25"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER26"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER27"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER28"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER29"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" CityName="LOC_CITY_NAME_SUMER30"/>
+	</CityNames>
+	
+	<StartBiasResources>
+		<Row CivilizationType="CIVILIZATION_SUMER" ResourceType="RESOURCE_IRON" Score="5"/>
+	</StartBiasResources>
+	<StartBiasTerrains>
+		<Row CivilizationType="CIVILIZATION_SUMER" TerrainType="TERRAIN_NAVIGABLE_RIVER" Score="30"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" TerrainType="TERRAIN_HILL" Score="20"/>
+	</StartBiasTerrains>
+	<StartBiasFeatureClasses>
+		<Row CivilizationType="CIVILIZATION_SUMER" FeatureClassType="FEATURE_CLASS_FLOODPLAIN" Score="15"/>
+	</StartBiasFeatureClasses>
+	<VisArt_CivilizationBuildingCultures>
+		<Row CivilizationType="CIVILIZATION_SUMER" BuildingCulture="BUILDING_CULTURE_NAF"/>
+		<Row CivilizationType="CIVILIZATION_SUMER" BuildingCulture="ANT_MUD"/>
+	</VisArt_CivilizationBuildingCultures>
+	<VisArt_CivilizationUnitCultures>
+		<Row CivilizationType="CIVILIZATION_SUMER" UnitCulture="Afr"/>
+	</VisArt_CivilizationUnitCultures>
+
+	<EndGameMovies>
+	</EndGameMovies>
+</Database>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Types>
+		<!-- Major Civs -->
+		<Row Type="TRAIT_SUMER" Kind="KIND_TRAIT"/>
+		<Row Type="CIVILIZATION_SUMER" Kind="KIND_CIVILIZATION"/>
+	</Types>
+	<LegacyCivilizations>
+		<!-- Full Civs -->
+		<Row CivilizationType="CIVILIZATION_SUMER" Name="LOC_CIVILIZATION_SUMER_NAME" FullName="LOC_CIVILIZATION_SUMER_FULLNAME" Adjective="LOC_CIVILIZATION_SUMER_ADJECTIVE" Age="AGE_ANTIQUITY"/>
+	</LegacyCivilizations>
+	<LegacyCivilizationTraits>
+		<Row CivilizationType="CIVILIZATION_SUMER" TraitType="TRAIT_SUMER"/>
+	</LegacyCivilizationTraits>
+	<Traits>
+		<Row TraitType="TRAIT_SUMER" InternalOnly="true"/>
+	</Traits>
+	<LegacyLeaderCivPriorities>
+		<!-- <Row Leader="LEADER_MACHIAVELLI" CivilizationType="CIVILIZATION_SUMER"/> -->
+	</LegacyLeaderCivPriorities>
+</Database>

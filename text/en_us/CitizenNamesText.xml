@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<!-- SUMER-->
+		<Row Tag="LOC_CITIZEN_SUMER_MALE_1">
+			<Text>Ur-Nammu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SUMER_MALE_2">
+			<Text>Lugal-kinig</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SUMER_MALE_3">
+			<Text>Enki-duga</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SUMER_MALE_4">
+			<Text>Nanna-zu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SUMER_MALE_5">
+			<Text>Utu-hengal</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SUMER_MALE_6">
+			<Text>Dumuzi-gamil</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SUMER_MALE_7">
+			<Text>Ishme-dagan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SUMER_MALE_8">
+			<Text>Arad-lugal</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SUMER_MALE_9">
+			<Text>Lu-dingir</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SUMER_MALE_10">
+			<Text>Shu-Sin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SUMER_FEMALE_1">
+			<Text>Nin-alla</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SUMER_FEMALE_2">
+			<Text>Geme-nanna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SUMER_FEMALE_3">
+			<Text>Nin-gubalag</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SUMER_FEMALE_4">
+			<Text>Eresh-kigal</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SUMER_FEMALE_5">
+			<Text>Nin-hur-sag</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SUMER_FEMALE_6">
+			<Text>Bau-nisaba</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SUMER_FEMALE_7">
+			<Text>Ama-ushumgal</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SUMER_FEMALE_8">
+			<Text>Nin-me-an-na</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SUMER_FEMALE_9">
+			<Text>Lugal-ti-da</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SUMER_FEMALE_10">
+			<Text>Dam-gal-nuna</Text>
+		</Row>
+	</EnglishText>
+</Database>

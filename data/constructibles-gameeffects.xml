@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameEffects xmlns="GameEffects">
+
+	<!-- ==================================================	-->
+	<!--					Improvements					-->
+	<!-- ==================================================	-->
+	<Modifier id="MOD_SUMER_ABUL_URUDU_GIVE_RESOURCE" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADD_RESOURCE_TO_PLOT" permanent="true">
+		<Argument name="ResourceType">RESOURCE_COPPER</Argument>
+		<Argument name="Tooltip">LOC_BUILDING_ABUL_URUDU_NAME</Argument>
+	</Modifier>
+
+	<Modifier id="MOD_SUMER_ABUL_KUG_GIVE_RESOURCE" collection="COLLECTION_PLAYER_CAPITAL_CITY" effect="EFFECT_CITY_ADD_RESOURCE_TO_PLOT" permanent="true">
+		<Argument name="ResourceType">RESOURCE_TIN_ROG</Argument>
+		<Argument name="Tooltip">LOC_BUILDING_ABUL_KUG_NAME</Argument>
+	</Modifier>
+
+	<Modifier id="MOD_SUMER_E_BAD_RA_GIVE_RESOURCE" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADD_RESOURCE_TO_PLOT" permanent="true">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_CITY_HAS_BUILDING">
+				<Argument name="BuildingType">BUILDING_ABUL_URUDU</Argument>
+			</Requirement>
+			<Requirement type="REQUIREMENT_CITY_IS_CITY"/>
+		</SubjectRequirements>
+		<Argument name="ResourceType">RESOURCE_BRONZE</Argument>
+		<Argument name="Tooltip">LOC_BUILDING_ABUL_KUG_NAME</Argument>
+	</Modifier>
+
+	
+	<Modifier id="MOD_SUMER_E_BAD_RA_RESOURCE_CAP" collection="COLLECTION_ALL_CITIES" effect="EFFECT_ATTACH_MODIFIERS" permanent="true">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_CITY_HAS_UNIQUE_QUARTER">
+				<Argument name="UniqueQuarterType">QUARTER_E_BAD_RA</Argument>
+			</Requirement>
+			<Requirement type="REQUIREMENT_CITY_IS_CITY"/>
+		</SubjectRequirements>
+		<Argument name="ModifierId">MOD_SUMER_E_BAD_RA_MOD</Argument>
+	</Modifier>
+
+	<Modifier id="MOD_SUMER_E_BAD_RA_MOD" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_RESOURCE_CAP" permanent="true">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_CITY_HAS_UNIQUE_QUARTER">
+				<Argument name="UniqueQuarterType">QUARTER_E_BAD_RA</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="Amount">4</Argument>
+		<!-- <String context="Description">LOC_TRADITION_COMMODITIES_DESCRIPTION</String> -->
+	</Modifier>
+	<!-- ==================================================	-->
+	<!--					Wonders							-->
+	<!-- ==================================================	-->
+</GameEffects>
+
+<!-- <Modifier id="ATTACH_LAPIS_LAZULI" collection="COLLECTION_PLAYER_CAPITAL_CITY" effect="EFFECT_CITY_ADD_RESOURCE_TO_PLOT" permanent="true">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_PLAYER_ELIGIBLE_CS_BONUS">
+				<Argument name="CityStateBonus">CITY_STATE_BONUS_ANTIQUITY_13</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="ResourceType">RESOURCE_LAPIS_LAZULI</Argument>
+	</Modifier> -->

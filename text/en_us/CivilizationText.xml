@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<!-- text change since Sumeria has a unique resource -->
+		<!-- <Row Tag="LOC_CREATE_CIV_UNIQUE_BONUSES_SUBTITLE">
+			<Text>Unique Resources</Text>
+		</Row> -->
+
+
+		<!--Civilization Traits-->
+		<Row Tag="LOC_TRAIT_SUMER_ABILITY_NAME">
+			<Text>Cradle of Civilization</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SUMER_DESCRIPTION">
+			<Text>Start with the [B]Writing[/B] technology unlocked.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SUMER_ABILITY_DESCRIPTION">
+			<Text>[LIST][LI]Start with the [B]Writing[/B] technology unlocked.[/LIST]</Text>
+		</Row>
+
+		<Row Tag="LOC_MOD_CIV_WONDER_PRODUCTION_SUMER_DESCRIPTION">
+			<Text>+30%[icon:YIELD_PRODUCTION] Production from being Sumer's associated Wonder.</Text>
+		</Row>
+
+		<Row Tag="LOC_MOD_SUMER_START_WITH_WRITING_DESCRIPTION">
+			<Text>Unlock the [B]Writing[/B] technology.</Text>
+		</Row>
+	</EnglishText>
+</Database>

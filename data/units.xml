@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Types>
+	</Types>
+	<Units>
+	</Units>
+	<Unit_Stats>
+	</Unit_Stats>
+	<Unit_Costs>
+	</Unit_Costs>
+	<Unit_Advisories>
+	</Unit_Advisories>
+	<Unit_RequiredConstructibles>
+	</Unit_RequiredConstructibles>
+	<UnitUpgrades>
+	</UnitUpgrades>
+	<UnitReplaces>
+	</UnitReplaces>
+	<Tags>
+	</Tags>
+	<TypeTags>
+		<!--Civ Unique Military-->
+	</TypeTags>
+	<UnitClass_Abilities>
+		
+	</UnitClass_Abilities>
+	<UnitAbilities>
+	</UnitAbilities>
+	<UnitAbilityModifiers>
+	</UnitAbilityModifiers>
+	<RequirementSets>
+	</RequirementSets>
+	<RequirementSetRequirements>
+	</RequirementSetRequirements>
+	<Requirements>
+	</Requirements>
+	<RequirementArguments>
+	</RequirementArguments>
+  <CivilopediaUnitsUniqueUpgrades>
+  </CivilopediaUnitsUniqueUpgrades>
+</Database>

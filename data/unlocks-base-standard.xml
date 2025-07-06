@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Kinds>
+		<InsertOrIgnore Kind="KIND_UNLOCK"/>
+	</Kinds>
+	<Types>
+		<InsertOrIgnore Type="UNLOCK_CIVILIZATION_SUMER" Kind="KIND_UNLOCK"/>
+	</Types>
+	<Unlocks>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_SUMER"/>
+	</Unlocks>
+	<UnlockRewards>
+	</UnlockRewards>
+	<RequirementSets>
+		<Row RequirementSetId="REQSET_CIVILIZATION_IS_SUMER" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
+	</RequirementSets>
+	<Requirements>
+		<Row RequirementId="REQ_CIVILIZATION_IS_SUMER" RequirementType="REQUIREMENT_PLAYER_CIVILIZATION_TYPE_MATCHES"/>
+	</Requirements>
+	<RequirementArguments>
+		<Row RequirementId="REQ_CIVILIZATION_IS_SUMER" Name="CivilizationType" Value="CIVILIZATION_SUMER"/>
+	</RequirementArguments>
+	<RequirementSetRequirements>
+		<Row RequirementSetId="REQSET_CIVILIZATION_IS_SUMER" RequirementId="REQ_CIVILIZATION_IS_SUMER"/>
+	</RequirementSetRequirements>
+	<UnlockRequirements>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_ABBASID" RequirementSetId="REQSET_CIVILIZATION_IS_SUMER" Description="LOC_UNLOCK_PLAY_AS_SUMER_ABBASID_DESCRIPTION" Tooltip="LOC_UNLOCK_PLAY_AS_SUMER_ABBASID_TOOLTIP"/>
+
+	</UnlockRequirements>
+
+	<UnlockConfigurationValues>
+		<!-- <InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_SUMER" ConfigurationValue="CIVILIZATION_SUMER"/> -->
+	</UnlockConfigurationValues>
+</Database>

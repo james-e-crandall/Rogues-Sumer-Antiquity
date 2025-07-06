@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<!--SUMER-->
+		<Row Tag="LOC_CITY_NAME_SUMER1">
+			<Text>Uruk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER2">
+			<Text>Ur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER3">
+			<Text>Nippur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER4">
+			<Text>Lagash</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER5">
+			<Text>Kish</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER6">
+			<Text>Eridu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER7">
+			<Text>Adab</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER8">
+			<Text>Larsa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER9">
+			<Text>Isin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER10">
+			<Text>Shuruppak</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER11">
+			<Text>Umma</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER12">
+			<Text>Girsu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER13">
+			<Text>Kullab</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER14">
+			<Text>Zabala</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER15">
+			<Text>Nina</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER16">
+			<Text>Bad-tibira</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER17">
+			<Text>Akshak</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER18">
+			<Text>Eshnunna</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER19">
+			<Text>Mari</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER20">
+			<Text>Tutub</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER21">
+			<Text>Agade</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER22">
+			<Text>Kazallu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER23">
+			<Text>Apishal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER24">
+			<Text>Opis</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER25">
+			<Text>Sippar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER26">
+			<Text>Borsippa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER27">
+			<Text>Kutha</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER28">
+			<Text>Dilbat</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER29">
+			<Text>Urum</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMER30">
+			<Text>Kanesh</Text>
+		</Row>
+	</EnglishText>
+</Database>

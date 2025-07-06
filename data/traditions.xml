@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Kinds>
+		<InsertOrIgnore Kind="KIND_TRADITION"/>
+	</Kinds>
+	<Types>
+		<!-- ==================================================	-->
+		<!--	EXPLORATION							-->
+		<!-- ==================================================	-->
+		<!-- Sumer -->
+		<Row Type="TRADITION_SUKU_RATIONS" Kind="KIND_TRADITION"/>
+		<Row Type="TRADITION_TAMKARUM_CONTRACTS" Kind="KIND_TRADITION"/>
+		<Row Type="TRADITION_ERUN_URUDA" Kind="KIND_TRADITION"/>
+		<Row Type="TRADITION_UKKIN" Kind="KIND_TRADITION"/>
+
+		<!-- <Row Type="TRADITION_LAGUNA_PROTETTA" Kind="KIND_TRADITION"/>
+		<Row Type="TRADITION_COSTRUZIONE_NAVALE_ACCELERATA" Kind="KIND_TRADITION"/>
+		<Row Type="TRADITION_FORNA_DE_MURANO" Kind="KIND_TRADITION"/>
+		<Row Type="TRADITION_REGIA_MARINA" Kind="KIND_TRADITION"/>
+		<Row Type="TRADITION_POTENZIA_VENEZIA" Kind="KIND_TRADITION"/> -->
+	</Types>
+	<Traditions>
+		<!-- ==================================================	-->
+
+		<!--	EXPLORATION							-->
+		<!-- ==================================================	-->
+		<!-- Sumer -->
+		<Row TraditionType="TRADITION_SUKU_RATIONS" Name="LOC_TRADITION_SUKU_RATIONS_NAME" Description="LOC_TRADITION_SUKU_RATIONS_DESCRIPTION" TraitType="TRAIT_SUMER" AgeType="AGE_ANTIQUITY"/>
+		<Row TraditionType="TRADITION_TAMKARUM_CONTRACTS" Name="LOC_TRADITION_TAMKARUM_CONTRACTS_NAME" Description="LOC_TRADITION_TAMKARUM_CONTRACTS_DESCRIPTION" TraitType="TRAIT_SUMER" AgeType="AGE_ANTIQUITY"/>
+		<Row TraditionType="TRADITION_ERUN_URUDA" Name="LOC_TRADITION_ERUN_URUDA_NAME" Description="LOC_TRADITION_ERUN_URUDA_DESCRIPTION" TraitType="TRAIT_SUMER" AgeType="AGE_ANTIQUITY"/>
+		<Row TraditionType="TRADITION_KI_SU_NI" Name="LOC_TRADITION_KI_SU_NI_NAME" Description="LOC_TRADITION_KI_SU_NI_DESCRIPTION" TraitType="TRAIT_SUMER" AgeType="AGE_ANTIQUITY"/>
+		<Row TraditionType="TRADITION_UKKIN" Name="LOC_TRADITION_UKKIN_NAME" Description="LOC_TRADITION_UKKIN_DESCRIPTION" TraitType="TRAIT_SUMER" AgeType="AGE_ANTIQUITY"/>
+
+	</Traditions>
+	 <TraditionModifiers>
+	 	<Row TraditionType="TRADITION_SUKU_RATIONS" ModifierId="MOD_SUKU_RATIONS_FOOD"/>
+		<Row TraditionType="TRADITION_TAMKARUM_CONTRACTS" ModifierId="MOD_TAMKARUM_CONTRACTS_TRADE_ROUTE_RANGE"/>
+		<Row TraditionType="TRADITION_ERUN_URUDA" ModifierId="MOD_ERUN_URUDA_SCIENCE_HAPPINESS"/>
+		<Row TraditionType="TRADITION_KI_SU_NI" ModifierId="MOD_KI_SU_NI_GOLD"/>
+		<Row TraditionType="TRADITION_UKKIN" ModifierId="MOD_UKKIN_DIPLOMACY_YIELD"/>
+	</TraditionModifiers>
+</Database>
