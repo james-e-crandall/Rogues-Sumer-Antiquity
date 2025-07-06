@@ -13,8 +13,7 @@
 		<!--Civ Unique Improvements-->
 		<Row ConstructibleType="IMPROVEMENT_ZIGGURAT_SUMER" Name="LOC_IMPROVEMENT_ZIGGURAT_SUMER_NAME" Description="LOC_IMPROVEMENT_ZIGGURAT_SUMER_DESCRIPTION" Tooltip="LOC_IMPROVEMENT_ZIGGURAT_SUMER_TOOLTIP" ConstructibleClass="IMPROVEMENT" Cost="30" Population="1" Age="AGE_ANTIQUITY"/>
 		<!-- É-bad-ra -->
-		<!-- <Row ConstructibleType="BUILDING_E_BAD_RA" Name="LOC_BUILDING_E_BAD_RA_NAME" Description="LOC_BUILDING_E_BAD_RA_DESCRIPTION" Tooltip="LOC_BUILDING_E_BAD_RA_TOOLTIP" ConstructibleClass="BUILDING" Cost="45" Population="1" Age="AGE_ANTIQUITY"/> -->
-        <Row ConstructibleType="BUILDING_ABUL_URUDU" Name="LOC_BUILDING_ABUL_URUDU_NAME" Description="LOC_BUILDING_ABUL_URUDU_DESCRIPTION" Tooltip="LOC_BUILDING_ABUL_URUDU_TOOLTIP" ConstructibleClass="BUILDING" Cost="95" Population="1" Age="AGE_ANTIQUITY"/>
+		<Row ConstructibleType="BUILDING_ABUL_URUDU" Name="LOC_BUILDING_ABUL_URUDU_NAME" Description="LOC_BUILDING_ABUL_URUDU_DESCRIPTION" Tooltip="LOC_BUILDING_ABUL_URUDU_TOOLTIP" ConstructibleClass="BUILDING" Cost="95" Population="1" Age="AGE_ANTIQUITY"/>
         <Row ConstructibleType="BUILDING_ABUL_KUG" Name="LOC_BUILDING_ABUL_KUG_NAME" Description="LOC_BUILDING_ABUL_KUG_DESCRIPTION" Tooltip="LOC_BUILDING_ABUL_KUG_TOOLTIP" ConstructibleClass="BUILDING" Cost="95" Population="1" Age="AGE_ANTIQUITY"/>
 	</Constructibles>
 
@@ -31,9 +30,7 @@
 
 	<Constructible_YieldChanges>
 		<Row ConstructibleType="IMPROVEMENT_ZIGGURAT_SUMER" YieldType="YIELD_FOOD" YieldChange="1"/>
-		<!-- <Row ConstructibleType="BUILDING_ABUL_URUDU" YieldType="YIELD_PRODUCTION" YieldChange="2"/> -->
 		<Row ConstructibleType="BUILDING_ABUL_KUG" YieldType="YIELD_PRODUCTION" YieldChange="2"/>
-		<!-- <Row ConstructibleType="BUILDING_E_BAD_RA" YieldType="YIELD_PRODUCTION" YieldChange="2"/> -->
 	</Constructible_YieldChanges>
 
 	<TypeTags>
@@ -68,7 +65,6 @@
 		<Row ConstructibleType="IMPROVEMENT_ZIGGURAT_SUMER" AdvisoryClassType="ADVISORY_CLASS_SCIENCE"/>
 		<Row ConstructibleType="BUILDING_ABUL_URUDU" AdvisoryClassType="ADVISORY_CLASS_ECONOMIC"/>
 		<Row ConstructibleType="BUILDING_ABUL_KUG" AdvisoryClassType="ADVISORY_CLASS_SCIENCE"/>
-		<!-- <Row ConstructibleType="BUILDING_E_BAD_RA" AdvisoryClassType="ADVISORY_CLASS_ECONOMIC"/> -->
 	</Constructible_Advisories>
 	<Adjacency_YieldChanges>
         <Row ID="AbulUruduRoughProduction" Age="AGE_ANTIQUITY" YieldType="YIELD_PRODUCTION" YieldChange="1" TilesRequired="2" ProjectMaxYield="true" AdjacentTerrain="TERRAIN_HILL"/>
@@ -86,7 +82,6 @@
 
     <UniqueQuarterModifiers>
 		<Row UniqueQuarterType="QUARTER_E_BAD_RA" ModifierId="MOD_SUMER_E_BAD_RA_RESOURCE_CAP"/>
-		<!-- <Row UniqueQuarterType="QUARTER_E_BAD_RA" ModifierId="MOD_SUMER_E_BAD_RA_GIVE_RESOURCE"/> -->
 	</UniqueQuarterModifiers>
     <GameModifiers>
 		<Row ModifierId="MOD_SUMER_E_BAD_RA_RESOURCE_CAP"/>

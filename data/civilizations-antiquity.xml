@@ -15,13 +15,11 @@
 		<Row TraitType="TRAIT_SUMER_ABILITY" Name="LOC_TRAIT_SUMER_ABILITY_NAME" Description="LOC_TRAIT_SUMER_ABILITY_DESCRIPTION" InternalOnly="true"/>
 	</Traits>
 	<TraitModifiers>
-		<Row TraitType="TRAIT_SUMER_ABILITY" ModifierId="MOD_REVEAL_CIV_CULTURE_TREE_SUMER"/>
+		<!-- <Row TraitType="TRAIT_SUMER_ABILITY" ModifierId="MOD_REVEAL_CIV_CULTURE_TREE_SUMER"/> -->
 	</TraitModifiers>
 	<CivilizationTraits>
 		<Row CivilizationType="CIVILIZATION_SUMER" TraitType="TRAIT_ANTIQUITY_CIV"/>
-
 		<Row CivilizationType="CIVILIZATION_SUMER" TraitType="TRAIT_SUMER"/>
-
 		<Row CivilizationType="CIVILIZATION_SUMER" TraitType="TRAIT_SUMER_ABILITY"/>
 		<Row CivilizationType="CIVILIZATION_SUMER" TraitType="TRAIT_ATTRIBUTE_ECONOMIC"/>
 		<Row CivilizationType="CIVILIZATION_SUMER" TraitType="TRAIT_ATTRIBUTE_SCIENTIFIC"/>

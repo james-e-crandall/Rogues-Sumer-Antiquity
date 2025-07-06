@@ -2,7 +2,5 @@
 <Database>
 	<ProgressionTreeNodeUnlocks>
 		<Row ProgressionTreeNodeType="NODE_TECH_AQ_AGRICULTURE" TargetKind="KIND_MODIFIER" TargetType="MOD_SUMER_START_WITH_WRITING" UnlockDepth="1" RequiredTraitType="TRAIT_SUMER"/>
-		<!-- <Row ProgressionTreeNodeType="NODE_TECH_AQ_BRONZE_WORKING" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_ABUL_KUG" UnlockDepth="1" RequiredTraitType="TRAIT_SUMER"/>
-		<Row ProgressionTreeNodeType="NODE_TECH_AQ_BRONZE_WORKING" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_ABUL_URUDU" UnlockDepth="1" RequiredTraitType="TRAIT_SUMER"/> -->
 	</ProgressionTreeNodeUnlocks>
 </Database>

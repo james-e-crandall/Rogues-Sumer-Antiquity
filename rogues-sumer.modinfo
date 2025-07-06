@@ -62,15 +62,18 @@
 		<ActionGroup id="rogues-civ-sumer" scope="game" criteria="always">
 			<Actions>
 				<ImportFiles>
-                    <Item>assets/icon/sumer.png</Item>
+					<Item>assets/icon/civ_sym_sumer</Item>
+                    <Item>assets/icon/civ_sym_sumer.png</Item>
                     <Item>assets/icon/bronze.png</Item>
                     <Item>assets/icon/copper.png</Item>
                     <Item>assets/icon/tin.png</Item> 
-                    <Item>assets/icon/ziggurat.png</Item>
-					<Item>assets/icon/ebadra.png</Item>
-					<Item>assets/icon/abul-urudu.png</Item>
-					<Item>assets/icon/abul-kug.png</Item>
+                    <Item>assets/icon/impicon_ziggurat.png</Item>
+					<Item>assets/icon/buildicon_ebadra.png</Item>
+					<Item>assets/icon/buildicon_abul-urudu.png</Item>
+					<Item>assets/icon/buildicon_abul-kug.png</Item>
                     <Item>assets/icon/cult_sumer.png</Item>
+					<Item>assets/icon/lsbg_sumer_1080.png</Item>
+					<Item>assets/icon/lsbg_sumer_720.png</Item>
                 </ImportFiles>
 				<UpdateIcons>
 					<Item>icons/icons.xml</Item>
@@ -123,6 +126,7 @@
 					<Item>data/progression-trees-tech.xml</Item> <!-- We'll get back to this -->
 					<Item>data/units.xml</Item>
 					<Item>data/unlocks-antiquity.xml</Item>
+					<Item>data/progression-trees-culture-common.xml</Item>
 				</UpdateDatabase>
 				<UpdateText>
 					<Item>text/en_us/CitizenNamesText.xml</Item>
@@ -135,15 +139,18 @@
 		<ActionGroup id="rogue-civ-sumer-shell" scope="shell" criteria="always">
 			<Actions>
 				<ImportFiles>
-                    <Item>assets/icon/sumer.png</Item>
+					<Item>assets/icon/civ_sym_sumer</Item>
+                    <Item>assets/icon/civ_sym_sumer.png</Item>
                     <Item>assets/icon/bronze.png</Item>
                     <Item>assets/icon/copper.png</Item>
                     <Item>assets/icon/tin.png</Item> 
-                    <Item>assets/icon/ziggurat.png</Item>
-					<Item>assets/icon/ebadra.png</Item>
-					<Item>assets/icon/abul-urudu.png</Item>
-					<Item>assets/icon/abul-kug.png</Item>
+                    <Item>assets/icon/impicon_ziggurat.png</Item>
+					<Item>assets/icon/buildicon_ebadra.png</Item>
+					<Item>assets/icon/buildicon_abul-urudu.png</Item>
+					<Item>assets/icon/buildicon_abul-kug.png</Item>
                     <Item>assets/icon/cult_sumer.png</Item>
+					<Item>assets/icon/lsbg_sumer_1080.png</Item>
+					<Item>assets/icon/lsbg_sumer_720.png</Item>
                 </ImportFiles>
 				<UpdateIcons>
 					<Item>icons/icons.xml</Item>

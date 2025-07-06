@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Database>
 	<LeaderCivilizationBias>
-		<!-- <Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER" LeaderDomain="StandardLeaders" LeaderType="LEADER_MACHIAVELLI" Bias="4" ReasonType="LOC_UNLOCK_PLAY_AS_SUMER_MACHIAVELLI_TOOLTIP" ChoiceType="LOC_CREATE_GAME_HISTORICAL_CHOICE"/> -->
 	</LeaderCivilizationBias>
 	<Civilizations>
 		<Row Domain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER" CivilizationName="LOC_CIVILIZATION_SUMER_NAME" CivilizationFullName="LOC_CIVILIZATION_SUMER_FULLNAME" CivilizationDescription="LOC_CIVILIZATION_SUMER_DESCRIPTION" CivilizationIcon="sumer.png"/>
@@ -14,8 +13,6 @@
 		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER" Type="BUILDING_ABUL_URUDU" Kind="KIND_BUILDING" Name="LOC_BUILDING_ABUL_URUDU_NAME" Description="LOC_BUILDING_ABUL_URUDU_DESCRIPTION" Icon="BUILDING_ABUL-URUDU"/>
 		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER" Type="BUILDING_ABUL_KUG" Kind="KIND_BUILDING" Name="LOC_BUILDING_ABUL_KUG_NAME" Description="LOC_BUILDING_ABUL_KUG_DESCRIPTION" Icon="BUILDING_ABUL-KUG"/>
 		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER" Type="RESOURCE_BRONZE" Kind="KIND_BUILDING" Name="LOC_RESOURCE_BRONZE_NAME" Description="LOC_RESOURCE_BRONZE_DESCRIPTION" Icon="RESOURCE_BRONZE"/>
-		<!-- <Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER" Type="RESOURCE_COPPER" Kind="KIND_BUILDING" Name="LOC_RESOURCE_COPPER_NAME" Description="LOC_RESOURCE_COPPER_DESCRIPTION" Icon="RESOURCE_COPPER"/>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER" Type="RESOURCE_TIN_ROG" Kind="KIND_BUILDING" Name="LOC_RESOURCE_TIN_ROG_NAME" Description="LOC_RESOURCE_TIN_ROG_DESCRIPTION" Icon="RESOURCE_TIN_ROG"/> -->
 	</CivilizationItems>
 
 	<CivilizationTags>
@@ -23,12 +20,8 @@
 		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER" TagType="TAG_TRAIT_SCIENTIFIC"/>
 	</CivilizationTags>
 	<LeaderUnlocks>
-		<!-- <Row LeaderDomain="StandardLeaders" LeaderType="LEADER_MACHIAVELLI" AgeDomain="StandardAges" AgeType="AGE_ANTIQUITY" Type="CIVILIZATION_SUMER" Kind="KIND_CIVILIZATION" Name="LOC_CIVILIZATION_SUMER_NAME" Description="LOC_CIVILIZATION_SUMER_DESCRIPTION" Icon="ICON_CIVILIZATION_SUMER"/> -->
 	</LeaderUnlocks>
 	<CivilizationUnlocks>
 		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER" AgeDomain="StandardAges" AgeType="AGE_EXPLORATION" Type="CIVILIZATION_ABBASID" Kind="KIND_CIVILIZATION" Name="LOC_CIVILIZATION_ABBASID_NAME" Description="LOC_CIVILIZATION_ABBASID_DESCRIPTION" Icon="ICON_CIVILIZATION_ABBASID"/>
-		<!--<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER" AgeDomain="StandardAges" AgeType="AGE_MODERN" Type="CIVILIZATION_PRUSSIA" Kind="KIND_CIVILIZATION" Name="LOC_CIVILIZATION_PRUSSIA_NAME" Description="LOC_CIVILIZATION_PRUSSIA_DESCRIPTION" Icon="ICON_CIVILIZATION_PRUSSIA"/> -->
-
-
 	</CivilizationUnlocks>
 </Database>
