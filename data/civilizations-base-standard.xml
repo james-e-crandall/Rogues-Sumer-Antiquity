@@ -4,10 +4,10 @@
 		<InsertOrIgnore KIND="KIND_TRAIT"/>
 	</Kinds>
 	<Types>
-		<Row Type="TRAIT_SUMER" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_SUMER_ROG" Kind="KIND_TRAIT"/>
 	</Types>
 	<Traits>
-		<Row TraitType="TRAIT_SUMER" InternalOnly="true"/>
+		<Row TraitType="TRAIT_SUMER_ROG" InternalOnly="true"/>
 
 	</Traits>
 </Database>

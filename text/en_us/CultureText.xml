@@ -5,7 +5,7 @@
 		<!-- ==================================================	-->
 		<!--	SUMER							-->
 		<!-- ==================================================	-->
-		<Row Tag="LOC_TREE_CIVICS_EX_SUMER_NAME">
+		<Row Tag="LOC_TREE_CIVICS_EX_SUMERR_ROG_NAME">
 			<Text>Sumerian Civics</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_ENGUR_KALAM_NAME">
@@ -96,7 +96,7 @@
 			<Text>+3 [icon:YIELD_DIPLOMACY] Influence on the Palace.</Text>
 		</Row>
 		
-		<!-- <Row Tag="LOC_TREE_CIVICS_EX_SUMER_NAME">
+		<!-- <Row Tag="LOC_TREE_CIVICS_EX_SUMERR_ROG_NAME">
 			<Text>Venetian Civics</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_MAESTRIA_LAGUNARE_NAME">

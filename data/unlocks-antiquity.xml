@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Database>
 	<Types>
-		<InsertOrIgnore Type="UNLOCK_CIVILIZATION_SUMER" Kind="KIND_UNLOCK"/>
+		<InsertOrIgnore Type="UNLOCK_CIVILIZATION_SUMER_ROG" Kind="KIND_UNLOCK"/>
 	</Types>
 	<Unlocks>
-		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_SUMER"/>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_SUMER_ROG"/>
 	</Unlocks>
 	<UnlockRewards>
-		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_SUMER" Name="LOC_CIVILIZATION_SUMER_NAME" Description="LOC_UNLOCK_EXPLORATION_CIV_DESCRIPTION" Icon="CIVILIZATION_SUMER" UnlockRewardType="CIVILIZATION_SUMER" UnlockRewardKind="KIND_CIVILIZATION"/>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_SUMER_ROG" Name="LOC_CIVILIZATION_SUMER_ROG_NAME" Description="LOC_UNLOCK_EXPLORATION_CIV_DESCRIPTION" Icon="CIVILIZATION_SUMER_ROG" UnlockRewardType="CIVILIZATION_SUMER_ROG" UnlockRewardKind="KIND_CIVILIZATION"/>
 	</UnlockRewards>
 	<UnlockRequirements>
 	</UnlockRequirements>
 	<UnlockConfigurationValues>
-		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_SUMER" ConfigurationValue="CIVILIZATION_SUMER"/>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_SUMER_ROG" ConfigurationValue="CIVILIZATION_SUMER_ROG"/>
 	</UnlockConfigurationValues>
 </Database>

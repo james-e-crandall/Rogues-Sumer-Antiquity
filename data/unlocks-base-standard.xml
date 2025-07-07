@@ -4,10 +4,10 @@
 		<InsertOrIgnore Kind="KIND_UNLOCK"/>
 	</Kinds>
 	<Types>
-		<InsertOrIgnore Type="UNLOCK_CIVILIZATION_SUMER" Kind="KIND_UNLOCK"/>
+		<InsertOrIgnore Type="UNLOCK_CIVILIZATION_SUMER_ROG" Kind="KIND_UNLOCK"/>
 	</Types>
 	<Unlocks>
-		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_SUMER"/>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_SUMER_ROG"/>
 	</Unlocks>
 	<UnlockRewards>
 	</UnlockRewards>
@@ -18,7 +18,7 @@
 		<Row RequirementId="REQ_CIVILIZATION_IS_SUMER" RequirementType="REQUIREMENT_PLAYER_CIVILIZATION_TYPE_MATCHES"/>
 	</Requirements>
 	<RequirementArguments>
-		<Row RequirementId="REQ_CIVILIZATION_IS_SUMER" Name="CivilizationType" Value="CIVILIZATION_SUMER"/>
+		<Row RequirementId="REQ_CIVILIZATION_IS_SUMER" Name="CivilizationType" Value="CIVILIZATION_SUMER_ROG"/>
 	</RequirementArguments>
 	<RequirementSetRequirements>
 		<Row RequirementSetId="REQSET_CIVILIZATION_IS_SUMER" RequirementId="REQ_CIVILIZATION_IS_SUMER"/>
@@ -29,6 +29,6 @@
 	</UnlockRequirements>
 
 	<UnlockConfigurationValues>
-		<!-- <InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_SUMER" ConfigurationValue="CIVILIZATION_SUMER"/> -->
+		<!-- <InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_SUMER_ROG" ConfigurationValue="CIVILIZATION_SUMER_ROG"/> -->
 	</UnlockConfigurationValues>
 </Database>

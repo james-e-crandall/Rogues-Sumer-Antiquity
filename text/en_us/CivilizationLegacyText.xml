@@ -2,15 +2,15 @@
 <Database>
   <EnglishText>
     <!--Civilization Names-->
-    <Row Tag="LOC_CIVILIZATION_SUMER_NAME">
+    <Row Tag="LOC_CIVILIZATION_SUMER_ROG_NAME">
       <Text>Sumer</Text>
     </Row>
     <!--Civilization Full Names-->
-    <Row Tag="LOC_CIVILIZATION_SUMER_FULLNAME">
+    <Row Tag="LOC_CIVILIZATION_SUMER_ROG_FULLNAME">
       <Text>Sumer</Text>
     </Row>
     <!--Civilization Adjectives-->
-    <Row Tag="LOC_CIVILIZATION_SUMER_ADJECTIVE">
+    <Row Tag="LOC_CIVILIZATION_SUMER_ROG_ADJECTIVE">
       <Text>Sumerian</Text>
     </Row>
   </EnglishText>

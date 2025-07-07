@@ -2,36 +2,36 @@
 <Database>
 	<IconDefinitions>
 		<Row>
-			<ID>ICON_CIVILIZATION_SUMER</ID>
-			<Path>fs://game/rogues-civ-sumer/civ_sym_sumer</Path>
+			<ID>ICON_CIVILIZATION_SUMER_ROG</ID>
+			<Path>fs://game/rogues-civ-sumer/civ_sym_sumer_rog</Path>
 		</Row>
 		<Row>
-			<ID>CIVILIZATION_SUMER</ID>
-			<Path>fs://game/rogues-civ-sumer/civ_sym_sumer</Path>
+			<ID>CIVILIZATION_SUMER_ROG</ID>
+			<Path>fs://game/rogues-civ-sumer/civ_sym_sumer_rog</Path>
 		</Row>
 		<Row>
-			<ID>CIVILIZATION_SUMER</ID>
+			<ID>CIVILIZATION_SUMER_ROG</ID>
 			<Context>BACKGROUND</Context>
 			<Path>fs://game/rogues-civ-sumer/lsbg_sumer_1080.png</Path>
 			<IconSize>1080</IconSize>
 		</Row>
 		<Row>
-			<ID>CIVILIZATION_SUMER</ID>
+			<ID>CIVILIZATION_SUMER_ROG</ID>
 			<Context>BACKGROUND</Context>
 			<Path>fs://game/rogues-civ-sumer/lsbg_sumer_720.png</Path>
 			<IconSize>720</IconSize>
 		</Row>
 		<Row>
-			<ID>RESOURCE_BRONZE</ID>
-			<Path>fs://game/rogues-civ-sumer/bronze.png</Path>
+			<ID>RESOURCE_BRONZE_ROG</ID>
+			<Path>fs://game/rogues-civ-sumer/bronze_rog.png</Path>
 		</Row>
 		<Row>
-			<ID>RESOURCE_COPPER</ID>
-			<Path>fs://game/rogues-civ-sumer/copper.png</Path>
+			<ID>RESOURCE_COPPER_ROG</ID>
+			<Path>fs://game/rogues-civ-sumer/copper_rog.png</Path>
 		</Row>
 		<Row>
 			<ID>RESOURCE_TIN_ROG</ID>
-			<Path>fs://game/rogues-civ-sumer/tin.png</Path>
+			<Path>fs://game/rogues-civ-sumer/tin_rog.png</Path>
 		</Row>
 		<Row>
 			<ID>IMPROVEMENT_ZIGGURAT_SUMER</ID>

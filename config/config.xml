@@ -3,25 +3,25 @@
 	<LeaderCivilizationBias>
 	</LeaderCivilizationBias>
 	<Civilizations>
-		<Row Domain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER" CivilizationName="LOC_CIVILIZATION_SUMER_NAME" CivilizationFullName="LOC_CIVILIZATION_SUMER_FULLNAME" CivilizationDescription="LOC_CIVILIZATION_SUMER_DESCRIPTION" CivilizationIcon="sumer.png"/>
+		<Row Domain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER_ROG" CivilizationName="LOC_CIVILIZATION_SUMER_ROG_NAME" CivilizationFullName="LOC_CIVILIZATION_SUMER_ROG_FULLNAME" CivilizationDescription="LOC_CIVILIZATION_SUMER_ROG_DESCRIPTION" CivilizationIcon="sumer.png"/>
 
 	</Civilizations>
 	<CivilizationItems>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER" Type="TRAIT_SUMER_ABILITY" Kind="KIND_TRAIT" Name="LOC_TRAIT_SUMER_ABILITY_NAME" Description="LOC_TRAIT_SUMER_ABILITY_DESCRIPTION"/>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER" Type="IMPROVEMENT_ZIGGURAT_SUMER" Kind="KIND_IMPROVEMENT" Name="LOC_IMPROVEMENT_ZIGGURAT_SUMER_NAME" Description="LOC_IMPROVEMENT_ZIGGURAT_SUMER_DESCRIPTION" Icon="IMPROVEMENT_ZIGGURAT_SUMER"/>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER" Type="QUARTER_E_BAD_RA" Kind="KIND_QUARTER" Name="LOC_QUARTER_E_BAD_RA_NAME" Description="LOC_QUARTER_E_BAD_RA_DESCRIPTION"/>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER" Type="BUILDING_ABUL_URUDU" Kind="KIND_BUILDING" Name="LOC_BUILDING_ABUL_URUDU_NAME" Description="LOC_BUILDING_ABUL_URUDU_DESCRIPTION" Icon="BUILDING_ABUL-URUDU"/>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER" Type="BUILDING_ABUL_KUG" Kind="KIND_BUILDING" Name="LOC_BUILDING_ABUL_KUG_NAME" Description="LOC_BUILDING_ABUL_KUG_DESCRIPTION" Icon="BUILDING_ABUL-KUG"/>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER" Type="RESOURCE_BRONZE" Kind="KIND_BUILDING" Name="LOC_RESOURCE_BRONZE_NAME" Description="LOC_RESOURCE_BRONZE_DESCRIPTION" Icon="RESOURCE_BRONZE"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER_ROG" Type="TRAIT_SUMER_ROG_ABILITY" Kind="KIND_TRAIT" Name="LOC_TRAIT_SUMER_ROG_ABILITY_NAME" Description="LOC_TRAIT_SUMER_ROG_ABILITY_DESCRIPTION"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER_ROG" Type="IMPROVEMENT_ZIGGURAT_SUMER" Kind="KIND_IMPROVEMENT" Name="LOC_IMPROVEMENT_ZIGGURAT_SUMER_NAME" Description="LOC_IMPROVEMENT_ZIGGURAT_SUMER_DESCRIPTION" Icon="IMPROVEMENT_ZIGGURAT_SUMER"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER_ROG" Type="QUARTER_E_BAD_RA" Kind="KIND_QUARTER" Name="LOC_QUARTER_E_BAD_RA_NAME" Description="LOC_QUARTER_E_BAD_RA_DESCRIPTION"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER_ROG" Type="BUILDING_ABUL_URUDU" Kind="KIND_BUILDING" Name="LOC_BUILDING_ABUL_URUDU_NAME" Description="LOC_BUILDING_ABUL_URUDU_DESCRIPTION" Icon="BUILDING_ABUL-URUDU"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER_ROG" Type="BUILDING_ABUL_KUG" Kind="KIND_BUILDING" Name="LOC_BUILDING_ABUL_KUG_NAME" Description="LOC_BUILDING_ABUL_KUG_DESCRIPTION" Icon="BUILDING_ABUL-KUG"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER_ROG" Type="RESOURCE_BRONZE_ROG" Kind="KIND_BUILDING" Name="LOC_RESOURCE_BRONZE_ROG_NAME" Description="LOC_RESOURCE_BRONZE_ROG_DESCRIPTION" Icon="RESOURCE_BRONZE_ROG"/>
 	</CivilizationItems>
 
 	<CivilizationTags>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER" TagType="TAG_TRAIT_ECONOMIC"/>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER" TagType="TAG_TRAIT_SCIENTIFIC"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER_ROG" TagType="TAG_TRAIT_ECONOMIC"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER_ROG" TagType="TAG_TRAIT_SCIENTIFIC"/>
 	</CivilizationTags>
 	<LeaderUnlocks>
 	</LeaderUnlocks>
 	<CivilizationUnlocks>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER" AgeDomain="StandardAges" AgeType="AGE_EXPLORATION" Type="CIVILIZATION_ABBASID" Kind="KIND_CIVILIZATION" Name="LOC_CIVILIZATION_ABBASID_NAME" Description="LOC_CIVILIZATION_ABBASID_DESCRIPTION" Icon="ICON_CIVILIZATION_ABBASID"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER_ROG" AgeDomain="StandardAges" AgeType="AGE_EXPLORATION" Type="CIVILIZATION_ABBASID" Kind="KIND_CIVILIZATION" Name="LOC_CIVILIZATION_ABBASID_NAME" Description="LOC_CIVILIZATION_ABBASID_DESCRIPTION" Icon="ICON_CIVILIZATION_ABBASID"/>
 	</CivilizationUnlocks>
 </Database>

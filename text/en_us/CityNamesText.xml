@@ -2,94 +2,94 @@
 <Database>
 	<EnglishText>
 		<!--SUMER-->
-		<Row Tag="LOC_CITY_NAME_SUMER1">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG1">
 			<Text>Uruk</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER2">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG2">
 			<Text>Ur</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER3">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG3">
 			<Text>Nippur</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER4">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG4">
 			<Text>Lagash</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER5">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG5">
 			<Text>Kish</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER6">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG6">
 			<Text>Eridu</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER7">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG7">
 			<Text>Adab</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER8">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG8">
 			<Text>Larsa</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER9">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG9">
 			<Text>Isin</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER10">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG10">
 			<Text>Shuruppak</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER11">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG11">
 			<Text>Umma</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER12">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG12">
 			<Text>Girsu</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER13">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG13">
 			<Text>Kullab</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER14">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG14">
 			<Text>Zabala</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER15">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG15">
 			<Text>Nina</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER16">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG16">
 			<Text>Bad-tibira</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER17">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG17">
 			<Text>Akshak</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER18">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG18">
 			<Text>Eshnunna</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER19">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG19">
 			<Text>Mari</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER20">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG20">
 			<Text>Tutub</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER21">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG21">
 			<Text>Agade</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER22">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG22">
 			<Text>Kazallu</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER23">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG23">
 			<Text>Apishal</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER24">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG24">
 			<Text>Opis</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER25">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG25">
 			<Text>Sippar</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER26">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG26">
 			<Text>Borsippa</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER27">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG27">
 			<Text>Kutha</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER28">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG28">
 			<Text>Dilbat</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER29">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG29">
 			<Text>Urum</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SUMER30">
+		<Row Tag="LOC_CITY_NAME_SUMER_ROG30">
 			<Text>Kanesh</Text>
 		</Row>
 	</EnglishText>

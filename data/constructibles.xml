@@ -19,13 +19,13 @@
 
 	<Improvements>
 		<!--Civ Unique Improvements-->
-		<Row ConstructibleType="IMPROVEMENT_ZIGGURAT_SUMER" ResourceTier="0" CityBuildable="true" TraitType="TRAIT_SUMER"/>
+		<Row ConstructibleType="IMPROVEMENT_ZIGGURAT_SUMER" ResourceTier="0" CityBuildable="true" TraitType="TRAIT_SUMER_ROG"/>
 		<!-- É-bad-ra -->
 	</Improvements>
 
 	<Buildings>
-		<Row ConstructibleType="BUILDING_ABUL_URUDU" Movable="false" TraitType="TRAIT_SUMER"/>
-		<Row ConstructibleType="BUILDING_ABUL_KUG" Movable="false" TraitType="TRAIT_SUMER"/>
+		<Row ConstructibleType="BUILDING_ABUL_URUDU" Movable="false" TraitType="TRAIT_SUMER_ROG"/>
+		<Row ConstructibleType="BUILDING_ABUL_KUG" Movable="false" TraitType="TRAIT_SUMER_ROG"/>
 	</Buildings>
 
 	<Constructible_YieldChanges>
@@ -77,7 +77,7 @@
 	</Adjacency_YieldChanges>
 
 	<UniqueQuarters>
-		<Row UniqueQuarterType="QUARTER_E_BAD_RA" BuildingType1="BUILDING_ABUL_URUDU" BuildingType2="BUILDING_ABUL_KUG" Name="LOC_QUARTER_E_BAD_RA_NAME" Description="LOC_QUARTER_E_BAD_RA_DESCRIPTION"  Tooltip="LOC_QUARTER_E_BAD_RA_TOOLTIP" TraitType="TRAIT_SUMER"/>
+		<Row UniqueQuarterType="QUARTER_E_BAD_RA" BuildingType1="BUILDING_ABUL_URUDU" BuildingType2="BUILDING_ABUL_KUG" Name="LOC_QUARTER_E_BAD_RA_NAME" Description="LOC_QUARTER_E_BAD_RA_DESCRIPTION"  Tooltip="LOC_QUARTER_E_BAD_RA_TOOLTIP" TraitType="TRAIT_SUMER_ROG"/>
 	</UniqueQuarters>
 
     <UniqueQuarterModifiers>

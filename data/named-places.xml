@@ -1,7 +1,7 @@
 <Database>
 	<NamedRiverCivilizations>
-		<Row NamedRiverType="DIYALA" CivilizationType="CIVILIZATION_SUMER"/>
-		<Row NamedRiverType="GREAT_ZAB" CivilizationType="CIVILIZATION_SUMER"/>
+		<Row NamedRiverType="DIYALA" CivilizationType="CIVILIZATION_SUMER_ROG"/>
+		<Row NamedRiverType="GREAT_ZAB" CivilizationType="CIVILIZATION_SUMER_ROG"/>
 	</NamedRiverCivilizations>
 	<NamedRivers>
 		<Row NamedRiverType="DIYALA" Name="LOC_RIVER_DIYALA_NAME"/>

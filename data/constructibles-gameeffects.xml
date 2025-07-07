@@ -5,7 +5,7 @@
 	<!--					Improvements					-->
 	<!-- ==================================================	-->
 	<Modifier id="MOD_SUMER_ABUL_URUDU_GIVE_RESOURCE" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADD_RESOURCE_TO_PLOT" permanent="true">
-		<Argument name="ResourceType">RESOURCE_COPPER</Argument>
+		<Argument name="ResourceType">RESOURCE_COPPER_ROG</Argument>
 		<Argument name="Tooltip">LOC_BUILDING_ABUL_URUDU_NAME</Argument>
 	</Modifier>
 
@@ -21,7 +21,7 @@
 			</Requirement>
 			<Requirement type="REQUIREMENT_CITY_IS_CITY"/>
 		</SubjectRequirements>
-		<Argument name="ResourceType">RESOURCE_BRONZE</Argument>
+		<Argument name="ResourceType">RESOURCE_BRONZE_ROG</Argument>
 		<Argument name="Tooltip">LOC_BUILDING_ABUL_KUG_NAME</Argument>
 	</Modifier>
 

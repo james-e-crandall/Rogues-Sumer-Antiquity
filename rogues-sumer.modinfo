@@ -62,11 +62,11 @@
 		<ActionGroup id="rogues-civ-sumer" scope="game" criteria="always">
 			<Actions>
 				<ImportFiles>
-					<Item>assets/icon/civ_sym_sumer</Item>
-                    <Item>assets/icon/civ_sym_sumer.png</Item>
-                    <Item>assets/icon/bronze.png</Item>
-                    <Item>assets/icon/copper.png</Item>
-                    <Item>assets/icon/tin.png</Item> 
+					<Item>assets/icon/civ_sym_sumer_rog</Item>
+                    <Item>assets/icon/civ_sym_sumer_rog.png</Item>
+                    <Item>assets/icon/bronze_rog.png</Item>
+                    <Item>assets/icon/copper_rog.png</Item>
+                    <Item>assets/icon/tin_rog.png</Item> 
                     <Item>assets/icon/impicon_ziggurat.png</Item>
 					<Item>assets/icon/buildicon_ebadra.png</Item>
 					<Item>assets/icon/buildicon_abul-urudu.png</Item>
@@ -139,11 +139,11 @@
 		<ActionGroup id="rogue-civ-sumer-shell" scope="shell" criteria="always">
 			<Actions>
 				<ImportFiles>
-					<Item>assets/icon/civ_sym_sumer</Item>
-                    <Item>assets/icon/civ_sym_sumer.png</Item>
-                    <Item>assets/icon/bronze.png</Item>
-                    <Item>assets/icon/copper.png</Item>
-                    <Item>assets/icon/tin.png</Item> 
+					<Item>assets/icon/civ_sym_sumer_rog</Item>
+                    <Item>assets/icon/civ_sym_sumer_rog.png</Item>
+                    <Item>assets/icon/bronze_rog.png</Item>
+                    <Item>assets/icon/copper_rog.png</Item>
+                    <Item>assets/icon/tin_rog.png</Item> 
                     <Item>assets/icon/impicon_ziggurat.png</Item>
 					<Item>assets/icon/buildicon_ebadra.png</Item>
 					<Item>assets/icon/buildicon_abul-urudu.png</Item>

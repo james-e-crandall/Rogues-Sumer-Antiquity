@@ -5,14 +5,14 @@
 		<InsertOrIgnore Kind="KIND_RESOURCE"/>
 	</Kinds>
 	<Types>
-		<Row Type="RESOURCE_BRONZE" Kind="KIND_RESOURCE"/>
-		<Row Type="RESOURCE_COPPER" Kind="KIND_RESOURCE"/>
+		<Row Type="RESOURCE_BRONZE_ROG" Kind="KIND_RESOURCE"/>
+		<Row Type="RESOURCE_COPPER_ROG" Kind="KIND_RESOURCE"/>
 		<Row Type="RESOURCE_TIN_ROG" Kind="KIND_RESOURCE"/>
 	</Types>
     
 	<Resources>
-        <Row ResourceType="RESOURCE_BRONZE" Name="LOC_RESOURCE_BRONZE_NAME" Tooltip="LOC_RESOURCE_BRONZE_TOOLTIP" ResourceClassType="RESOURCECLASS_CITY" Weight="10"/>
-		<Row ResourceType="RESOURCE_COPPER" Name="LOC_RESOURCE_COPPER_NAME" Tooltip="LOC_RESOURCE_COPPER_TOOLTIP" ResourceClassType="RESOURCECLASS_CITY" Weight="10"/>
+        <Row ResourceType="RESOURCE_BRONZE_ROG" Name="LOC_RESOURCE_BRONZE_ROG_NAME" Tooltip="LOC_RESOURCE_BRONZE_ROG_TOOLTIP" ResourceClassType="RESOURCECLASS_CITY" Weight="10"/>
+		<Row ResourceType="RESOURCE_COPPER_ROG" Name="LOC_RESOURCE_COPPER_ROG_NAME" Tooltip="LOC_RESOURCE_COPPER_ROG_TOOLTIP" ResourceClassType="RESOURCECLASS_CITY" Weight="10"/>
 		<Row ResourceType="RESOURCE_TIN_ROG" Name="LOC_RESOURCE_TIN_ROG_NAME" Tooltip="LOC_RESOURCE_TIN_ROG_TOOLTIP" ResourceClassType="RESOURCECLASS_CITY" Weight="10"/>
     </Resources>
 
@@ -23,10 +23,10 @@
 	</GameModifiers>
     
 	<Resource_ValidAges>
-			<Row ResourceType="RESOURCE_BRONZE" AgeType="AGE_ANTIQUITY"/>
-			<Row ResourceType="RESOURCE_BRONZE" AgeType="AGE_EXPLORATION"/>
-			<Row ResourceType="RESOURCE_COPPER" AgeType="AGE_ANTIQUITY"/>
-			<Row ResourceType="RESOURCE_COPPER" AgeType="AGE_EXPLORATION"/>
+			<Row ResourceType="RESOURCE_BRONZE_ROG" AgeType="AGE_ANTIQUITY"/>
+			<Row ResourceType="RESOURCE_BRONZE_ROG" AgeType="AGE_EXPLORATION"/>
+			<Row ResourceType="RESOURCE_COPPER_ROG" AgeType="AGE_ANTIQUITY"/>
+			<Row ResourceType="RESOURCE_COPPER_ROG" AgeType="AGE_EXPLORATION"/>
 			<Row ResourceType="RESOURCE_TIN_ROG" AgeType="AGE_ANTIQUITY"/>
 			<Row ResourceType="RESOURCE_TIN_ROG" AgeType="AGE_EXPLORATION"/>
 

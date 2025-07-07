@@ -2,20 +2,20 @@
 <Database>
 	<Types>
 		<!-- Major Civs -->
-		<Row Type="TRAIT_SUMER" Kind="KIND_TRAIT"/>
-		<Row Type="CIVILIZATION_SUMER" Kind="KIND_CIVILIZATION"/>
+		<Row Type="TRAIT_SUMER_ROG" Kind="KIND_TRAIT"/>
+		<Row Type="CIVILIZATION_SUMER_ROG" Kind="KIND_CIVILIZATION"/>
 	</Types>
 	<LegacyCivilizations>
 		<!-- Full Civs -->
-		<Row CivilizationType="CIVILIZATION_SUMER" Name="LOC_CIVILIZATION_SUMER_NAME" FullName="LOC_CIVILIZATION_SUMER_FULLNAME" Adjective="LOC_CIVILIZATION_SUMER_ADJECTIVE" Age="AGE_ANTIQUITY"/>
+		<Row CivilizationType="CIVILIZATION_SUMER_ROG" Name="LOC_CIVILIZATION_SUMER_ROG_NAME" FullName="LOC_CIVILIZATION_SUMER_ROG_FULLNAME" Adjective="LOC_CIVILIZATION_SUMER_ROG_ADJECTIVE" Age="AGE_ANTIQUITY"/>
 	</LegacyCivilizations>
 	<LegacyCivilizationTraits>
-		<Row CivilizationType="CIVILIZATION_SUMER" TraitType="TRAIT_SUMER"/>
+		<Row CivilizationType="CIVILIZATION_SUMER_ROG" TraitType="TRAIT_SUMER_ROG"/>
 	</LegacyCivilizationTraits>
 	<Traits>
-		<Row TraitType="TRAIT_SUMER" InternalOnly="true"/>
+		<Row TraitType="TRAIT_SUMER_ROG" InternalOnly="true"/>
 	</Traits>
 	<LegacyLeaderCivPriorities>
-		<!-- <Row Leader="LEADER_MACHIAVELLI" CivilizationType="CIVILIZATION_SUMER"/> -->
+		<!-- <Row Leader="LEADER_MACHIAVELLI" CivilizationType="CIVILIZATION_SUMER_ROG"/> -->
 	</LegacyLeaderCivPriorities>
 </Database>

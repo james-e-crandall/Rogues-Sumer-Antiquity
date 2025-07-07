@@ -2,23 +2,23 @@
 <Database>
   <EnglishText>
     <!--Resource Names-->
-    <Row Tag="LOC_RESOURCE_BRONZE_NAME">
+    <Row Tag="LOC_RESOURCE_BRONZE_ROG_NAME">
       <Text>Bronze</Text>
     </Row>
-    <Row Tag="LOC_RESOURCE_BRONZE_TOOLTIP">
+    <Row Tag="LOC_RESOURCE_BRONZE_ROG_TOOLTIP">
       <Text>Sumerian Unique Resource. +3 [ICON:YIELD_HAPPINESS] Happiness, +2 [ICON:YIELD_PRODUCTION] Production, and 20% [ICON:YIELD_PRODUCTION] Production towards units.</Text>
     </Row>
-    <Row Tag="LOC_RESOURCE_BRONZE_DESCRIPTION">
+    <Row Tag="LOC_RESOURCE_BRONZE_ROG_DESCRIPTION">
       <Text>Sumerian Unique Resource. +3 [ICON:YIELD_HAPPINESS] Happiness, +2 [ICON:YIELD_PRODUCTION] Production, and 20% [ICON:YIELD_PRODUCTION] Production towards units.</Text>
     </Row>
 
-    <Row Tag="LOC_RESOURCE_COPPER_NAME">
+    <Row Tag="LOC_RESOURCE_COPPER_ROG_NAME">
       <Text>Copper</Text>
     </Row>
-    <Row Tag="LOC_RESOURCE_COPPER_TOOLTIP">
+    <Row Tag="LOC_RESOURCE_COPPER_ROG_TOOLTIP">
       <Text>Sumerian Unique Resource. +2 [ICON:YIELD_GOLD] Gold and +10% [ICON:YIELD_PRODUCTION] production towards melee units.</Text>
     </Row>
-    <Row Tag="LOC_RESOURCE_COPPER_DESCRIPTION">
+    <Row Tag="LOC_RESOURCE_COPPER_ROG_DESCRIPTION">
       <Text>Sumerian Unique Resource. +2 [ICON:YIELD_GOLD] Gold and +10% [ICON:YIELD_PRODUCTION] production towards melee units.</Text>
     </Row>
 

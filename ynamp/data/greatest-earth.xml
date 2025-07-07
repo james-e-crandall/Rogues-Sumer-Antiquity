@@ -7,7 +7,7 @@
 
 	<StartPosition>
 		<!-- Civ7 -->
-		<Replace MapName="GreatestEarthMap" Civilization="CIVILIZATION_SUMER"			X="68"	Y="33" />
+		<Replace MapName="GreatestEarthMap" Civilization="CIVILIZATION_SUMER_ROG"			X="68"	Y="33" />
     </StartPosition>
 
 

@@ -27,7 +27,7 @@
 			<Text>Abul-Urudu</Text>
 		</Row>	
 		<Row Tag="LOC_BUILDING_ABUL_URUDU_DESCRIPTION">
-			<Text>Adjacency of +2 [icon:YIELD_GOLD] Gold and +1 [icon:YIELD_PRODUCTION] Production for every 2 adjacent rough terrain tiles. Provides 1 copy of the [icon:RESOURCE_BRONZE] Bronze resource to the city. Ageless.</Text>
+			<Text>Adjacency of +2 [icon:YIELD_GOLD] Gold and +1 [icon:YIELD_PRODUCTION] Production for every 2 adjacent rough terrain tiles. Provides 1 copy of the [icon:RESOURCE_BRONZE_ROG] Bronze resource to the city. Ageless.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_ABUL_URUDU_TOOLTIP">
 			<Text></Text>

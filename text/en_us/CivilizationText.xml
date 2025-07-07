@@ -8,13 +8,13 @@
 
 
 		<!--Civilization Traits-->
-		<Row Tag="LOC_TRAIT_SUMER_ABILITY_NAME">
+		<Row Tag="LOC_TRAIT_SUMER_ROG_ABILITY_NAME">
 			<Text>Cradle of Civilization</Text>
 		</Row>
-		<Row Tag="LOC_CIVILIZATION_SUMER_DESCRIPTION">
+		<Row Tag="LOC_CIVILIZATION_SUMER_ROG_DESCRIPTION">
 			<Text>Start with the [B]Writing[/B] technology unlocked.</Text>
 		</Row>
-		<Row Tag="LOC_TRAIT_SUMER_ABILITY_DESCRIPTION">
+		<Row Tag="LOC_TRAIT_SUMER_ROG_ABILITY_DESCRIPTION">
 			<Text>[LIST][LI]Start with the [B]Writing[/B] technology unlocked.[/LIST]</Text>
 		</Row>
 
