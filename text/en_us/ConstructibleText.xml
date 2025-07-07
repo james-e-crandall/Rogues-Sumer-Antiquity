@@ -2,14 +2,14 @@
 <Database>
 	<EnglishText>
 		<!--Civ Unique Improvements-->
-		<Row Tag="LOC_IMPROVEMENT_ZIGGURAT_SUMER_NAME">
+		<Row Tag="LOC_IMPROVEMENT_ZIGGURAT_SUMER_ROG_NAME">
 			<Text>Ziggurat</Text>
 		</Row>
-		<Row Tag="LOC_IMPROVEMENT_ZIGGURAT_SUMER_DESCRIPTION">
+		<Row Tag="LOC_IMPROVEMENT_ZIGGURAT_SUMER_ROG_DESCRIPTION">
 			<Text>+1 [icon:YIELD_FOOD] Food. +1 [icon:YIELD_SCIENCE] Science for each adjacent Navigable River and Floodplain. Ageless.</Text>
 		</Row>
 
-		<Row Tag="LOC_IMPROVEMENT_ZIGGURAT_SUMER_TOOLTIP">
+		<Row Tag="LOC_IMPROVEMENT_ZIGGURAT_SUMER_ROG_TOOLTIP">
 			<Text></Text>
 		</Row>
 
@@ -23,23 +23,23 @@
 			<Text></Text>
 		</Row>	
 		
-		<Row Tag="LOC_BUILDING_ABUL_URUDU_NAME">
+		<Row Tag="LOC_BUILDING_ABUL_URUDU_ROG_NAME">
 			<Text>Abul-Urudu</Text>
 		</Row>	
-		<Row Tag="LOC_BUILDING_ABUL_URUDU_DESCRIPTION">
+		<Row Tag="LOC_BUILDING_ABUL_URUDU_ROG_DESCRIPTION">
 			<Text>Adjacency of +2 [icon:YIELD_GOLD] Gold and +1 [icon:YIELD_PRODUCTION] Production for every 2 adjacent rough terrain tiles. Provides 1 copy of the [icon:RESOURCE_BRONZE_ROG] Bronze resource to the city. Ageless.</Text>
 		</Row>
-		<Row Tag="LOC_BUILDING_ABUL_URUDU_TOOLTIP">
+		<Row Tag="LOC_BUILDING_ABUL_URUDU_ROG_TOOLTIP">
 			<Text></Text>
 		</Row>	
 
-		<Row Tag="LOC_BUILDING_ABUL_KUG_NAME">
+		<Row Tag="LOC_BUILDING_ABUL_KUG_ROG_NAME">
 			<Text>Abul-Kug</Text>
 		</Row>	
-		<Row Tag="LOC_BUILDING_ABUL_KUG_DESCRIPTION">
+		<Row Tag="LOC_BUILDING_ABUL_KUG_ROG_DESCRIPTION">
 			<Text>+2 [icon:YIELD_PRODUCTION] Production. Adjacency of +1 [icon:YIELD_GOLD] Science and +1 [icon:YIELD_PRODUCTION] Production for rough terrain. Resources in this city provide +1 [icon:YIELD_SCIENCE] Science. Ageless.</Text>
 		</Row>
-		<Row Tag="LOC_BUILDING_ABUL_KUG_TOOLTIP">
+		<Row Tag="LOC_BUILDING_ABUL_KUG_ROG_TOOLTIP">
 			<Text></Text>
 		</Row>	
 	</EnglishText>

@@ -6,23 +6,23 @@
 	<!-- ==================================================	-->
 	<Modifier id="MOD_SUMER_ABUL_URUDU_GIVE_RESOURCE" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADD_RESOURCE_TO_PLOT" permanent="true">
 		<Argument name="ResourceType">RESOURCE_COPPER_ROG</Argument>
-		<Argument name="Tooltip">LOC_BUILDING_ABUL_URUDU_NAME</Argument>
+		<Argument name="Tooltip">LOC_BUILDING_ABUL_URUDU_ROG_NAME</Argument>
 	</Modifier>
 
 	<Modifier id="MOD_SUMER_ABUL_KUG_GIVE_RESOURCE" collection="COLLECTION_PLAYER_CAPITAL_CITY" effect="EFFECT_CITY_ADD_RESOURCE_TO_PLOT" permanent="true">
 		<Argument name="ResourceType">RESOURCE_TIN_ROG</Argument>
-		<Argument name="Tooltip">LOC_BUILDING_ABUL_KUG_NAME</Argument>
+		<Argument name="Tooltip">LOC_BUILDING_ABUL_KUG_ROG_NAME</Argument>
 	</Modifier>
 
 	<Modifier id="MOD_SUMER_E_BAD_RA_GIVE_RESOURCE" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADD_RESOURCE_TO_PLOT" permanent="true">
 		<SubjectRequirements>
 			<Requirement type="REQUIREMENT_CITY_HAS_BUILDING">
-				<Argument name="BuildingType">BUILDING_ABUL_URUDU</Argument>
+				<Argument name="BuildingType">BUILDING_ABUL_URUDU_ROG</Argument>
 			</Requirement>
 			<Requirement type="REQUIREMENT_CITY_IS_CITY"/>
 		</SubjectRequirements>
 		<Argument name="ResourceType">RESOURCE_BRONZE_ROG</Argument>
-		<Argument name="Tooltip">LOC_BUILDING_ABUL_KUG_NAME</Argument>
+		<Argument name="Tooltip">LOC_BUILDING_ABUL_KUG_ROG_NAME</Argument>
 	</Modifier>
 
 	

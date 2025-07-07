@@ -2,6 +2,6 @@
 <Database>
     
 	<ConstructibleModifiers>
-        <Row ConstructibleType="BUILDING_ABUL_URUDU" ModifierId="MOD_SUMER_E_BAD_RA_GIVE_RESOURCE"/>
+        <Row ConstructibleType="BUILDING_ABUL_URUDU_ROG" ModifierId="MOD_SUMER_E_BAD_RA_GIVE_RESOURCE"/>
     </ConstructibleModifiers>
 </Database>

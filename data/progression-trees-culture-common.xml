@@ -11,7 +11,7 @@
 	<ProgressionTreeNodes>
 	</ProgressionTreeNodes>
 	<ProgressionTreeNodeUnlocks>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_MAIN_CHIEFDOM" TargetKind="KIND_MODIFIER" TargetType="MOD_REVEAL_CIV_CULTURE_TREE_SUMER" UnlockDepth="1" Hidden="true"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_MAIN_CHIEFDOM" TargetKind="KIND_MODIFIER" TargetType="MOD_REVEAL_CIV_CULTURE_TREE_SUMER_ROG" UnlockDepth="1" Hidden="true"/>
 	</ProgressionTreeNodeUnlocks>
 	<ProgressionTreePrereqs>
 	</ProgressionTreePrereqs>

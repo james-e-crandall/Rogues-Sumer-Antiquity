@@ -5,66 +5,66 @@
 	</Kinds>
 	<Types>
 		<!--Civ Unique Improvements-->
-		<Row Type="IMPROVEMENT_ZIGGURAT_SUMER" Kind="KIND_CONSTRUCTIBLE"/>
-		<Row Type="BUILDING_ABUL_URUDU" Kind="KIND_CONSTRUCTIBLE"/>
-		<Row Type="BUILDING_ABUL_KUG" Kind="KIND_CONSTRUCTIBLE"/>
+		<Row Type="IMPROVEMENT_ZIGGURAT_SUMER_ROG" Kind="KIND_CONSTRUCTIBLE"/>
+		<Row Type="BUILDING_ABUL_URUDU_ROG" Kind="KIND_CONSTRUCTIBLE"/>
+		<Row Type="BUILDING_ABUL_KUG_ROG" Kind="KIND_CONSTRUCTIBLE"/>
 	</Types>
 	<Constructibles>
 		<!--Civ Unique Improvements-->
-		<Row ConstructibleType="IMPROVEMENT_ZIGGURAT_SUMER" Name="LOC_IMPROVEMENT_ZIGGURAT_SUMER_NAME" Description="LOC_IMPROVEMENT_ZIGGURAT_SUMER_DESCRIPTION" Tooltip="LOC_IMPROVEMENT_ZIGGURAT_SUMER_TOOLTIP" ConstructibleClass="IMPROVEMENT" Cost="30" Population="1" Age="AGE_ANTIQUITY"/>
+		<Row ConstructibleType="IMPROVEMENT_ZIGGURAT_SUMER_ROG" Name="LOC_IMPROVEMENT_ZIGGURAT_SUMER_ROG_NAME" Description="LOC_IMPROVEMENT_ZIGGURAT_SUMER_ROG_DESCRIPTION" Tooltip="LOC_IMPROVEMENT_ZIGGURAT_SUMER_ROG_TOOLTIP" ConstructibleClass="IMPROVEMENT" Cost="30" Population="1" Age="AGE_ANTIQUITY"/>
 		<!-- É-bad-ra -->
-		<Row ConstructibleType="BUILDING_ABUL_URUDU" Name="LOC_BUILDING_ABUL_URUDU_NAME" Description="LOC_BUILDING_ABUL_URUDU_DESCRIPTION" Tooltip="LOC_BUILDING_ABUL_URUDU_TOOLTIP" ConstructibleClass="BUILDING" Cost="95" Population="1" Age="AGE_ANTIQUITY"/>
-        <Row ConstructibleType="BUILDING_ABUL_KUG" Name="LOC_BUILDING_ABUL_KUG_NAME" Description="LOC_BUILDING_ABUL_KUG_DESCRIPTION" Tooltip="LOC_BUILDING_ABUL_KUG_TOOLTIP" ConstructibleClass="BUILDING" Cost="95" Population="1" Age="AGE_ANTIQUITY"/>
+		<Row ConstructibleType="BUILDING_ABUL_URUDU_ROG" Name="LOC_BUILDING_ABUL_URUDU_ROG_NAME" Description="LOC_BUILDING_ABUL_URUDU_ROG_DESCRIPTION" Tooltip="LOC_BUILDING_ABUL_URUDU_ROG_TOOLTIP" ConstructibleClass="BUILDING" Cost="95" Population="1" Age="AGE_ANTIQUITY"/>
+        <Row ConstructibleType="BUILDING_ABUL_KUG_ROG" Name="LOC_BUILDING_ABUL_KUG_ROG_NAME" Description="LOC_BUILDING_ABUL_KUG_ROG_DESCRIPTION" Tooltip="LOC_BUILDING_ABUL_KUG_ROG_TOOLTIP" ConstructibleClass="BUILDING" Cost="95" Population="1" Age="AGE_ANTIQUITY"/>
 	</Constructibles>
 
 	<Improvements>
 		<!--Civ Unique Improvements-->
-		<Row ConstructibleType="IMPROVEMENT_ZIGGURAT_SUMER" ResourceTier="0" CityBuildable="true" TraitType="TRAIT_SUMER_ROG"/>
+		<Row ConstructibleType="IMPROVEMENT_ZIGGURAT_SUMER_ROG" ResourceTier="0" CityBuildable="true" TraitType="TRAIT_SUMER_ROG"/>
 		<!-- É-bad-ra -->
 	</Improvements>
 
 	<Buildings>
-		<Row ConstructibleType="BUILDING_ABUL_URUDU" Movable="false" TraitType="TRAIT_SUMER_ROG"/>
-		<Row ConstructibleType="BUILDING_ABUL_KUG" Movable="false" TraitType="TRAIT_SUMER_ROG"/>
+		<Row ConstructibleType="BUILDING_ABUL_URUDU_ROG" Movable="false" TraitType="TRAIT_SUMER_ROG"/>
+		<Row ConstructibleType="BUILDING_ABUL_KUG_ROG" Movable="false" TraitType="TRAIT_SUMER_ROG"/>
 	</Buildings>
 
 	<Constructible_YieldChanges>
-		<Row ConstructibleType="IMPROVEMENT_ZIGGURAT_SUMER" YieldType="YIELD_FOOD" YieldChange="1"/>
-		<Row ConstructibleType="BUILDING_ABUL_KUG" YieldType="YIELD_PRODUCTION" YieldChange="2"/>
+		<Row ConstructibleType="IMPROVEMENT_ZIGGURAT_SUMER_ROG" YieldType="YIELD_FOOD" YieldChange="1"/>
+		<Row ConstructibleType="BUILDING_ABUL_KUG_ROG" YieldType="YIELD_PRODUCTION" YieldChange="2"/>
 	</Constructible_YieldChanges>
 
 	<TypeTags>
-		<Row Type="IMPROVEMENT_ZIGGURAT_SUMER" Tag="UNIQUE_IMPROVEMENT"/>
-		<Row Type="IMPROVEMENT_ZIGGURAT_SUMER" Tag="AGELESS"/>
-		<Row Type="BUILDING_ABUL_URUDU" Tag="PRODUCTION"/>
-		<Row Type="BUILDING_ABUL_KUG" Tag="SCIENCE"/>
-		<Row Type="BUILDING_ABUL_URUDU" Tag="UNIQUE"/>
-		<Row Type="BUILDING_ABUL_URUDU" Tag="AGELESS"/>
-		<Row Type="BUILDING_ABUL_KUG" Tag="UNIQUE"/>
-		<Row Type="BUILDING_ABUL_KUG" Tag="AGELESS"/>
+		<Row Type="IMPROVEMENT_ZIGGURAT_SUMER_ROG" Tag="UNIQUE_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_ZIGGURAT_SUMER_ROG" Tag="AGELESS"/>
+		<Row Type="BUILDING_ABUL_URUDU_ROG" Tag="PRODUCTION"/>
+		<Row Type="BUILDING_ABUL_KUG_ROG" Tag="SCIENCE"/>
+		<Row Type="BUILDING_ABUL_URUDU_ROG" Tag="UNIQUE"/>
+		<Row Type="BUILDING_ABUL_URUDU_ROG" Tag="AGELESS"/>
+		<Row Type="BUILDING_ABUL_KUG_ROG" Tag="UNIQUE"/>
+		<Row Type="BUILDING_ABUL_KUG_ROG" Tag="AGELESS"/>
 	</TypeTags>
 
 	<Constructible_ValidDistricts>
-		<Row ConstructibleType="IMPROVEMENT_ZIGGURAT_SUMER" DistrictType="DISTRICT_RURAL"/>
-		<Row ConstructibleType="BUILDING_ABUL_URUDU" DistrictType="DISTRICT_CITY_CENTER"/>
-		<Row ConstructibleType="BUILDING_ABUL_URUDU" DistrictType="DISTRICT_URBAN"/>
-		<Row ConstructibleType="BUILDING_ABUL_KUG" DistrictType="DISTRICT_CITY_CENTER"/>
-		<Row ConstructibleType="BUILDING_ABUL_KUG" DistrictType="DISTRICT_URBAN"/>
+		<Row ConstructibleType="IMPROVEMENT_ZIGGURAT_SUMER_ROG" DistrictType="DISTRICT_RURAL"/>
+		<Row ConstructibleType="BUILDING_ABUL_URUDU_ROG" DistrictType="DISTRICT_CITY_CENTER"/>
+		<Row ConstructibleType="BUILDING_ABUL_URUDU_ROG" DistrictType="DISTRICT_URBAN"/>
+		<Row ConstructibleType="BUILDING_ABUL_KUG_ROG" DistrictType="DISTRICT_CITY_CENTER"/>
+		<Row ConstructibleType="BUILDING_ABUL_KUG_ROG" DistrictType="DISTRICT_URBAN"/>
 	</Constructible_ValidDistricts>
 
 	<Constructible_Adjacencies>
-		<Row ConstructibleType="IMPROVEMENT_ZIGGURAT_SUMER" YieldChangeId="ZigguratSumerResourceScience"/>
-		<Row ConstructibleType="IMPROVEMENT_ZIGGURAT_SUMER" YieldChangeId="ZigguratSumerResourceScience2"/>
+		<Row ConstructibleType="IMPROVEMENT_ZIGGURAT_SUMER_ROG" YieldChangeId="ZigguratSumerResourceScience"/>
+		<Row ConstructibleType="IMPROVEMENT_ZIGGURAT_SUMER_ROG" YieldChangeId="ZigguratSumerResourceScience2"/>
 
-        <Row ConstructibleType="BUILDING_ABUL_URUDU" YieldChangeId="AbulUruduRoughProduction"/>
-        <Row ConstructibleType="BUILDING_ABUL_URUDU" YieldChangeId="AbulUruduRoughGold"/>
-        <Row ConstructibleType="BUILDING_ABUL_KUG" YieldChangeId="AbulKugRoughScience"/>
-        <Row ConstructibleType="BUILDING_ABUL_KUG" YieldChangeId="AbulKugRoughProduction"/>
+        <Row ConstructibleType="BUILDING_ABUL_URUDU_ROG" YieldChangeId="AbulUruduRoughProduction"/>
+        <Row ConstructibleType="BUILDING_ABUL_URUDU_ROG" YieldChangeId="AbulUruduRoughGold"/>
+        <Row ConstructibleType="BUILDING_ABUL_KUG_ROG" YieldChangeId="AbulKugRoughScience"/>
+        <Row ConstructibleType="BUILDING_ABUL_KUG_ROG" YieldChangeId="AbulKugRoughProduction"/>
 	</Constructible_Adjacencies>
 	<Constructible_Advisories>
-		<Row ConstructibleType="IMPROVEMENT_ZIGGURAT_SUMER" AdvisoryClassType="ADVISORY_CLASS_SCIENCE"/>
-		<Row ConstructibleType="BUILDING_ABUL_URUDU" AdvisoryClassType="ADVISORY_CLASS_ECONOMIC"/>
-		<Row ConstructibleType="BUILDING_ABUL_KUG" AdvisoryClassType="ADVISORY_CLASS_SCIENCE"/>
+		<Row ConstructibleType="IMPROVEMENT_ZIGGURAT_SUMER_ROG" AdvisoryClassType="ADVISORY_CLASS_SCIENCE"/>
+		<Row ConstructibleType="BUILDING_ABUL_URUDU_ROG" AdvisoryClassType="ADVISORY_CLASS_ECONOMIC"/>
+		<Row ConstructibleType="BUILDING_ABUL_KUG_ROG" AdvisoryClassType="ADVISORY_CLASS_SCIENCE"/>
 	</Constructible_Advisories>
 	<Adjacency_YieldChanges>
         <Row ID="AbulUruduRoughProduction" Age="AGE_ANTIQUITY" YieldType="YIELD_PRODUCTION" YieldChange="1" TilesRequired="2" ProjectMaxYield="true" AdjacentTerrain="TERRAIN_HILL"/>
@@ -77,7 +77,7 @@
 	</Adjacency_YieldChanges>
 
 	<UniqueQuarters>
-		<Row UniqueQuarterType="QUARTER_E_BAD_RA" BuildingType1="BUILDING_ABUL_URUDU" BuildingType2="BUILDING_ABUL_KUG" Name="LOC_QUARTER_E_BAD_RA_NAME" Description="LOC_QUARTER_E_BAD_RA_DESCRIPTION"  Tooltip="LOC_QUARTER_E_BAD_RA_TOOLTIP" TraitType="TRAIT_SUMER_ROG"/>
+		<Row UniqueQuarterType="QUARTER_E_BAD_RA" BuildingType1="BUILDING_ABUL_URUDU_ROG" BuildingType2="BUILDING_ABUL_KUG_ROG" Name="LOC_QUARTER_E_BAD_RA_NAME" Description="LOC_QUARTER_E_BAD_RA_DESCRIPTION"  Tooltip="LOC_QUARTER_E_BAD_RA_TOOLTIP" TraitType="TRAIT_SUMER_ROG"/>
 	</UniqueQuarters>
 
     <UniqueQuarterModifiers>

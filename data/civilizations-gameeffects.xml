@@ -20,7 +20,7 @@
 	<!--				Civ-Specific Trees					-->
 	<!-- ==================================================	-->
 
-	<Modifier id="MOD_REVEAL_CIV_CULTURE_TREE_SUMER" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_REVEAL_CULTURE_TREE">
+	<Modifier id="MOD_REVEAL_CIV_CULTURE_TREE_SUMER_ROG" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_REVEAL_CULTURE_TREE">
 		<SubjectRequirements>
 			<Requirement type="REQUIREMENT_PLAYER_HAS_CIVILIZATION_OR_LEADER_TRAIT">
 				<Argument name="TraitType">TRAIT_SUMER_ROG</Argument>

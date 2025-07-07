@@ -15,7 +15,7 @@
 		<Row TraitType="TRAIT_SUMER_ROG_ABILITY" Name="LOC_TRAIT_SUMER_ROG_ABILITY_NAME" Description="LOC_TRAIT_SUMER_ROG_ABILITY_DESCRIPTION" InternalOnly="true"/>
 	</Traits>
 	<TraitModifiers>
-		<!-- <Row TraitType="TRAIT_SUMER_ROG_ABILITY" ModifierId="MOD_REVEAL_CIV_CULTURE_TREE_SUMER"/> -->
+		<!-- <Row TraitType="TRAIT_SUMER_ROG_ABILITY" ModifierId="MOD_REVEAL_CIV_CULTURE_TREE_SUMER_ROG"/> -->
 	</TraitModifiers>
 	<CivilizationTraits>
 		<Row CivilizationType="CIVILIZATION_SUMER_ROG" TraitType="TRAIT_ANTIQUITY_CIV"/>

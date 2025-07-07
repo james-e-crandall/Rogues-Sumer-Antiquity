@@ -24,10 +24,10 @@
 		<Row ProgressionTreeType="TREE_CIVICS_EX_SUMERR_ROG" AgeType="AGE_ANTIQUITY" SystemType="SYSTEM_CULTURE" Name="LOC_TREE_CIVICS_EX_SUMERR_ROG_NAME"/>
 	</ProgressionTrees>
 	<ProgressionTreeNodes>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ENGUR_KALAM" ProgressionTree="TREE_CIVICS_EX_SUMERR_ROG" Cost="150" Name="LOC_CIVIC_ENGUR_KALAM_NAME" IconString="cult_sumer"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_E_NUN_GESTINNA" ProgressionTree="TREE_CIVICS_EX_SUMERR_ROG" Cost="150" Name="LOC_CIVIC_E_NUN_GESTINNA_NAME" IconString="cult_sumer"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_KI_TAR_LA" ProgressionTree="TREE_CIVICS_EX_SUMERR_ROG" Cost="150" Name="LOC_CIVIC_KI_TAR_LA_NAME" IconString="cult_sumer"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_NAM_LUGAL" ProgressionTree="TREE_CIVICS_EX_SUMERR_ROG" Cost="250" Name="LOC_CIVIC_NAM_LUGAL_NAME" IconString="cult_sumer"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ENGUR_KALAM" ProgressionTree="TREE_CIVICS_EX_SUMERR_ROG" Cost="150" Name="LOC_CIVIC_ENGUR_KALAM_NAME" IconString="cult_sumer_rog"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_E_NUN_GESTINNA" ProgressionTree="TREE_CIVICS_EX_SUMERR_ROG" Cost="150" Name="LOC_CIVIC_E_NUN_GESTINNA_NAME" IconString="cult_sumer_rog"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_KI_TAR_LA" ProgressionTree="TREE_CIVICS_EX_SUMERR_ROG" Cost="150" Name="LOC_CIVIC_KI_TAR_LA_NAME" IconString="cult_sumer_rog"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_NAM_LUGAL" ProgressionTree="TREE_CIVICS_EX_SUMERR_ROG" Cost="250" Name="LOC_CIVIC_NAM_LUGAL_NAME" IconString="cult_sumer_rog"/>
 	</ProgressionTreeNodes>
 	<ProgressionTreeNodeUnlocks>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ENGUR_KALAM" TargetKind="KIND_TRADITION" TargetType="TRADITION_SUKU_RATIONS" UnlockDepth="1"/>
@@ -35,12 +35,12 @@
 		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ENGUR_KALAM" TargetKind="KIND_TRADITION" TargetType="TRADITION_TAMKARUM_CONTRACTS" UnlockDepth="2"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ENGUR_KALAM" TargetKind="KIND_MODIFIER" TargetType="MOD_AQ_FREE_MERCHANT" UnlockDepth="2"/>
 
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_E_NUN_GESTINNA" TargetKind="KIND_CONSTRUCTIBLE" TargetType="IMPROVEMENT_ZIGGURAT_SUMER" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_E_NUN_GESTINNA" TargetKind="KIND_CONSTRUCTIBLE" TargetType="IMPROVEMENT_ZIGGURAT_SUMER_ROG" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_E_NUN_GESTINNA" TargetKind="KIND_TRADITION" TargetType="TRADITION_ERUN_URUDA" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_E_NUN_GESTINNA" TargetKind="KIND_MODIFIER" TargetType="MOD_AQ_SETTLEMENT_CAP_INCREASE" UnlockDepth="1"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_E_NUN_GESTINNA" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_ABUL_URUDU" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_E_NUN_GESTINNA" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_ABUL_URUDU_ROG" UnlockDepth="2"/>
 
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_KI_TAR_LA" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_ABUL_KUG" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_KI_TAR_LA" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_ABUL_KUG_ROG" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_KI_TAR_LA" TargetKind="KIND_TRADITION" TargetType="TRADITION_KI_SU_NI" UnlockDepth="1"/>
 
 		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_NAM_LUGAL" TargetKind="KIND_TRADITION" TargetType="TRADITION_UKKIN" UnlockDepth="1"/>

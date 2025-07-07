@@ -12,13 +12,13 @@
 		<Row>
 			<ID>CIVILIZATION_SUMER_ROG</ID>
 			<Context>BACKGROUND</Context>
-			<Path>fs://game/rogues-civ-sumer/lsbg_sumer_1080.png</Path>
+			<Path>fs://game/rogues-civ-sumer/lsbg_sumer_rog_1080.png</Path>
 			<IconSize>1080</IconSize>
 		</Row>
 		<Row>
 			<ID>CIVILIZATION_SUMER_ROG</ID>
 			<Context>BACKGROUND</Context>
-			<Path>fs://game/rogues-civ-sumer/lsbg_sumer_720.png</Path>
+			<Path>fs://game/rogues-civ-sumer/lsbg_sumer_rog_720.png</Path>
 			<IconSize>720</IconSize>
 		</Row>
 		<Row>
@@ -34,20 +34,20 @@
 			<Path>fs://game/rogues-civ-sumer/tin_rog.png</Path>
 		</Row>
 		<Row>
-			<ID>IMPROVEMENT_ZIGGURAT_SUMER</ID>
-			<Path>fs://game/rogues-civ-sumer/impicon_ziggurat.png</Path>
+			<ID>IMPROVEMENT_ZIGGURAT_SUMER_ROG</ID>
+			<Path>fs://game/rogues-civ-sumer/impicon_ziggurat_rog.png</Path>
 		</Row>
 		<Row>
 			<ID>BUILDING_E_BAD_RA</ID>
-			<Path>fs://game/rogues-civ-sumer/buildicon_ebadra.png</Path>
+			<Path>fs://game/rogues-civ-sumer/buildicon_ebadra_rog.png</Path>
 		</Row>
 		<Row>
-			<ID>BUILDING_ABUL_URUDU</ID>
-			<Path>fs://game/rogues-civ-sumer/buildicon_abul-urudu.png</Path>
+			<ID>BUILDING_ABUL_URUDU_ROG</ID>
+			<Path>fs://game/rogues-civ-sumer/buildicon_abul-urudu_rog.png</Path>
 		</Row>
 		<Row>
-			<ID>BUILDING_ABUL_KUG</ID>
-			<Path>fs://game/rogues-civ-sumer/buildicon_abul-kug.png</Path>
+			<ID>BUILDING_ABUL_KUG_ROG</ID>
+			<Path>fs://game/rogues-civ-sumer/buildicon_abul-kug_rog.png</Path>
 		</Row>
 	</IconDefinitions>
 	
