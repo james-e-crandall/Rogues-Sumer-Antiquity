@@ -3,15 +3,15 @@
 	<LeaderCivilizationBias>
 	</LeaderCivilizationBias>
 	<Civilizations>
-		<Row Domain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER_ROG" CivilizationName="LOC_CIVILIZATION_SUMER_ROG_NAME" CivilizationFullName="LOC_CIVILIZATION_SUMER_ROG_FULLNAME" CivilizationDescription="LOC_CIVILIZATION_SUMER_ROG_DESCRIPTION" CivilizationIcon="sumer.png"/>
+		<Row Domain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER_ROG" CivilizationName="LOC_CIVILIZATION_SUMER_ROG_NAME" CivilizationFullName="LOC_CIVILIZATION_SUMER_ROG_FULLNAME" CivilizationDescription="LOC_CIVILIZATION_SUMER_ROG_DESCRIPTION" CivilizationIcon="civ_sym_sumer_rogs"/>
 
 	</Civilizations>
 	<CivilizationItems>
 		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER_ROG" Type="TRAIT_SUMER_ROG_ABILITY" Kind="KIND_TRAIT" Name="LOC_TRAIT_SUMER_ROG_ABILITY_NAME" Description="LOC_TRAIT_SUMER_ROG_ABILITY_DESCRIPTION"/>
 		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER_ROG" Type="IMPROVEMENT_ZIGGURAT_SUMER_ROG" Kind="KIND_IMPROVEMENT" Name="LOC_IMPROVEMENT_ZIGGURAT_SUMER_ROG_NAME" Description="LOC_IMPROVEMENT_ZIGGURAT_SUMER_ROG_DESCRIPTION" Icon="IMPROVEMENT_ZIGGURAT_SUMER_ROG"/>
 		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER_ROG" Type="QUARTER_E_BAD_RA" Kind="KIND_QUARTER" Name="LOC_QUARTER_E_BAD_RA_NAME" Description="LOC_QUARTER_E_BAD_RA_DESCRIPTION"/>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER_ROG" Type="BUILDING_ABUL_URUDU_ROG" Kind="KIND_BUILDING" Name="LOC_BUILDING_ABUL_URUDU_ROG_NAME" Description="LOC_BUILDING_ABUL_URUDU_ROG_DESCRIPTION" Icon="BUILDING_ABUL-URUDU"/>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER_ROG" Type="BUILDING_ABUL_KUG_ROG" Kind="KIND_BUILDING" Name="LOC_BUILDING_ABUL_KUG_ROG_NAME" Description="LOC_BUILDING_ABUL_KUG_ROG_DESCRIPTION" Icon="BUILDING_ABUL-KUG"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER_ROG" Type="BUILDING_ABUL_URUDU_ROG" Kind="KIND_BUILDING" Name="LOC_BUILDING_ABUL_URUDU_ROG_NAME" Description="LOC_BUILDING_ABUL_URUDU_ROG_DESCRIPTION" Icon="BUILDING_ABUL_URUDU_ROG"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER_ROG" Type="BUILDING_ABUL_KUG_ROG" Kind="KIND_BUILDING" Name="LOC_BUILDING_ABUL_KUG_ROG_NAME" Description="LOC_BUILDING_ABUL_KUG_ROG_DESCRIPTION" Icon="BUILDING_ABUL_KUG_ROG"/>
 		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_SUMER_ROG" Type="RESOURCE_BRONZE_ROG" Kind="KIND_BUILDING" Name="LOC_RESOURCE_BRONZE_ROG_NAME" Description="LOC_RESOURCE_BRONZE_ROG_DESCRIPTION" Icon="RESOURCE_BRONZE_ROG"/>
 	</CivilizationItems>
 

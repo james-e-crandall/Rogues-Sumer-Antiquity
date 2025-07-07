@@ -38,16 +38,16 @@
 			<Path>fs://game/rogues-civ-sumer/impicon_ziggurat_rog.png</Path>
 		</Row>
 		<Row>
-			<ID>BUILDING_E_BAD_RA</ID>
+			<ID>BUILDING_E_BAD_RA_ROG</ID>
 			<Path>fs://game/rogues-civ-sumer/buildicon_ebadra_rog.png</Path>
 		</Row>
 		<Row>
 			<ID>BUILDING_ABUL_URUDU_ROG</ID>
-			<Path>fs://game/rogues-civ-sumer/buildicon_abul-urudu_rog.png</Path>
+			<Path>fs://game/rogues-civ-sumer/buildicon_abul_urudu_rog.png</Path>
 		</Row>
 		<Row>
 			<ID>BUILDING_ABUL_KUG_ROG</ID>
-			<Path>fs://game/rogues-civ-sumer/buildicon_abul-kug_rog.png</Path>
+			<Path>fs://game/rogues-civ-sumer/buildicon_abul_kug_rog.png</Path>
 		</Row>
 	</IconDefinitions>
 	
